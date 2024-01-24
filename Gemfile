@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+gem "jekyll", "=3.9.3" 
 
 gem "github-pages", group: :jekyll_plugins
 
@@ -15,3 +16,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
+
+gem "webrick", "~> 1.8"
+
+gem "faraday-retry", "~> 2.2"

@@ -1,8 +1,30 @@
 ---
 permalink: /about/
 title: "About"
+author: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# 🌐 Accomplished Data Scientist and Visionary Leader
+Greetings to the professional domain curated by Christopher Zerafa, a distinguished data scientist and seasoned leader with a tenure exceeding a decade across data and artificial intelligence.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# 🎓 Educational Attainment
+Possessing a doctorate in Geophysics applied to Artificial Intelligence, Christopher Zerafa stands as an exemplar, seamlessly blending scientific rigour with technological sophistication.
+
+# 📊 Professional Trajectory
+With a tenure spanning close to a decade in the dynamic arena of data, Christopher Zerafa consistently pioneers advancements. From intricate data analyses to the implementation of cutting-edge AI solutions, each project underscores an unwavering commitment to excellence.
+
+# 🚀 Leadership Prowess
+A proven leader, Christopher Zerafa has excelled in leadership capacities, adroitly steering teams towards success through a harmonious fusion of technical acumen and strategic vision. Recognised for cultivating collaborative and innovative work cultures, Christopher Zerafa consistently delivers results surpassing expectations.
+
+# 🔍 Areas of Expertise
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+- Leadership and Team Management
+- Innovative Problem-Solving
+
+# 🌟 Philosophical Tenet
+"When something is important enough, you do it even if the odds are not in your favor." *Elon Musk*
+
+# Connect
+Connect for collaborative ventures, insightful discourse, and the next chapter in transformative data experiences.

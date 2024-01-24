@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 # date: 2016-03-23T11:48:41-04:00
-title: Portofolio
+title: Portfolio
 # entries_layout: grid
 author_profile: true
 
@@ -19,118 +19,164 @@ header:
 intro: 
   - excerpt: As a distinguished data leader and accomplished scientist, I leverage a Ph.D. in Artificial Intelligence, backed by over a decade of experience. With a strategic focus on Artificial Intelligence, Machine Learning, Data Platform development, and a proven track record in leadership, I consistently exceeds expectations, driving global impact through transformative data initiatives.
 
-feature_row1:
-  - alt: "placeholder image 1"
-    # title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_top3:
+  - excerpt: "Placeholder 1"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 2"
-    # title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "Placeholder 2"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "Placeholder 3"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 4"
-    # title: "Placeholder 4"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+feature_igaming:
+  - excerpt: "Casino - Employing a Churn Prediction and Customer Value Prediction model to increase sales"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-feature_row2:
-  - alt: "placeholder image 1"
-    # title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "Casino - Early Customer Classifier"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 2"
-    # title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "Placeholder 3"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+feature_platform:
+  - excerpt: "Placeholder 1"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 4"
-    # title: "Placeholder 4"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "Deploying ML Classifier as an API using Flask"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-feature_row3:
-  - alt: "placeholder image 1"
-    # title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "Placeholder 3"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 2"
-    # title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+feature_ml:
+  - excerpt: "ML Templates"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "COVID-19 Predictions for Malta"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 4"
-    # title: "Placeholder 4"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "Predicting the results for the 2018 Fifa World Cup"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-feature_row4:
-  - alt: "placeholder image 1"
-    # title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "House price prediction for the Maltese Market"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 2"
-    # title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+feature_dl:
+  - excerpt: "Placeholder 1"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "Placeholder 2"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg
-  - alt: "placeholder image 4"
-    # title: "Placeholder 4"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: "Placeholder 3"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    # image_path: /assets/images/small-logo.jpg      
+
+feature_analytics:
+  - excerpt: "Malta Property Bubble Analysis"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "Efficiency frontier and Dash"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "Chess analytics"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_miscellaneous:
+  - excerpt: "Approximate Pi numerically using Monte Carlo Simulations"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "Hash Code 2018 Pizza Slicer Practice Problem"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "Simulating a queue in a post office"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"    
+
+feature_training:
+  - excerpt: "Intro to ML"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_books:
+  - excerpt: "An Introduction to Statistical Learning with Applications in R"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "The Elements of Statistical Learning: Data Mining, Inference, and Prediction"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "Machine Learning Yearning "
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_publications:
+  - excerpt: "Placeholder 1"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "Placeholder 2"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "Placeholder 3"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "Placeholder 4"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+
+# feature_books:
+#   - excerpt: "Placeholder 1"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - excerpt: "Placeholder 2"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - excerpt: "Placeholder 3"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - excerpt: "Placeholder 4"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
 
 toc: true
 toc_label: "Contents"
@@ -138,12 +184,28 @@ toc_icon: "cog"
 ---
 
 {% include feature_row id="intro" type="center" %}
+# Top 3 [TBD]
+{% include feature_row id="feature_top3" %}
 
-# Machine Learning [TBD]
-{% include feature_row id="feature_row1" %}
+
 # iGaming [TBD]
-{% include feature_row id="feature_row2" %}
-# Deep Learning [TBD]
-{% include feature_row id="feature_row3"%}
-# Books [TBD]
-{% include feature_row id="feature_row4" %}
+{% include feature_row id="feature_igaming" %}
+
+# Tech
+## Platform Development [TBD]
+{% include feature_row id="feature_platform"%}
+## Machine Learning [TBD]
+{% include feature_row id="feature_ml" %}
+## Deep Learning [TBD]
+{% include feature_row id="feature_dl"%}
+## Analytics, Visualisations, EDA [TBD]
+{% include feature_row id="feature_analytics"%}
+
+# Training [TBD]
+{% include feature_row id="feature_training" %}
+
+# Reading
+## Publications [TBD]
+{% include feature_row id="feature_publications" %}
+## Books [TBD]
+{% include feature_row id="feature_books" %}

@@ -16,6 +16,7 @@ toc: true
 toc_label: "Contents"
 toc_icon: "cog"  
 ---
+<!-- TODO update contents -->
 
 # 🌐 Accomplished Data Scientist and Visionary Leader
 Greetings to the professional domain curated by Christopher Zerafa, a distinguished data scientist and seasoned leader with a tenure exceeding a decade across data and artificial intelligence.

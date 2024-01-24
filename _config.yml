@@ -24,15 +24,15 @@ github_username: zerafachris
 minimal_mistakes_skin: air # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 locale: "en"
-title: "Christopher Zerafa"
-subtitle: "Portfolio | About"
-name: "Christopher Zerafa"
+title: "Christopher Zerafa, PhD"
+# subtitle: "Portfolio | About"
+name: "Christopher Zerafa, PhD"
 url: "https://zerafachris.github.io"
 repository : "zerafachris/bio"
 logo: "/assets/images/CZ-logo.png" # https://pmav.eu/stuff/pictar/
 # Favicon generator:
 # https://favicon.io/favicon-converter/
-masthead_title: "Christopher Zerafa"
+masthead_title: "Christopher Zerafa, PhD"
 
 
 # Build settings
@@ -86,11 +86,18 @@ plugins:
 # Site Author
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-author
 author:
-  name   : "Christopher Zerafa"
+  name   : "Christopher Zerafa, PhD"
   # avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  location: "Malta"
+  bio    : "Data Leader and Scientist, Driving Transformative Innovations at the Intersection of AI and Technology."
+  # location: "Malta"
+  email:
   links:
+    - label: "CV"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.linkedin.com/in/christopherzerafa/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zerafachris@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://zerafachris.github.io/bio/"
@@ -104,6 +111,12 @@ author:
 
 footer:
   links:
+    - label: "CV"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.linkedin.com/in/christopherzerafa/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zerafachris@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://zerafachris.github.io/bio/"

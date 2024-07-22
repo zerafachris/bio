@@ -70,6 +70,11 @@ feature_ml:
     url: "https://github.com/zerafachris/playGround/blob/master/published/maltaHousePricing/00_MaltaHousePrices.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - excerpt: "ScatCluster - Earthquake Analysis"
+    url: "https://github.com/INGV/ScatCluster/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
 
 # feature_dl:
 #   - excerpt: "Placeholder 1"

@@ -20,8 +20,8 @@ intro:
   - excerpt: As a distinguished data leader and accomplished scientist, I leverage a Ph.D. in Artificial Intelligence, backed by over a decade of experience. With a strategic focus on Artificial Intelligence, Machine Learning, Data Platform development, and a proven track record in leadership, I consistently exceeds expectations, driving global impact through transformative data initiatives.
 
 feature_top3:
-  - excerpt: "Placeholder 1"
-    url: "#test-link"
+  - excerpt: "AI Data Platform 1"
+    url: "https://github.com/zerafachris/ai_data_platform.git"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - excerpt: "Placeholder 2"

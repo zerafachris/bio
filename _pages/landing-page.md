@@ -28,7 +28,7 @@ feature_top3:
     url: "https://github.com/zerafachris/playGround/tree/master/published/MLtemplates"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - excerpt: "Basic Sentiment Analysis"
+  - excerpt: "Sentiment Analysis"
     url: "https://github.com/zerafachris/playGround/blob/master/published/sentimentAnalysisApp/00_readme.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -48,14 +48,14 @@ feature_platform:
     url: "https://github.com/zerafachris/playGround/blob/master/published/deployingML/0_readme.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - excerpt: "1"
-    url: "2"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - excerpt: "Placeholder 3"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  # - excerpt: "1"
+  #   url: "2"
+  #   btn_label: "Read More"
+  #   btn_class: "btn--primary"
+  # - excerpt: "Placeholder 3"
+  #   url: "#test-link"
+  #   btn_label: "Read More"
+  #   btn_class: "btn--primary"
 
 feature_ml:
   - excerpt: "COVID-19 Predictions for Malta"
@@ -181,28 +181,28 @@ toc_icon: "cog"
 ---
 
 {% include feature_row id="intro" type="center" %}
-# Top 3 [TBD]
+# Top 3 
 {% include feature_row id="feature_top3" %}
 
 
-# iGaming [TBD]
+# iGaming 
 {% include feature_row id="feature_igaming" %}
 
 # Tech
-## Platform Development [TBD]
+## Platform Development 
 {% include feature_row id="feature_platform"%}
-## Machine Learning [TBD]
+## Machine Learning 
 {% include feature_row id="feature_ml" %}
-<!-- ## Deep Learning [TBD]
+<!-- ## Deep Learning 
 {% include feature_row id="feature_dl"%} -->
-## Analytics, Visualisations, EDA [TBD]
+## Analytics, Visualisations, EDA 
 {% include feature_row id="feature_analytics"%}
 
-<!-- # Training [TBD]
+<!-- # Training 
 {% include feature_row id="feature_training" %} -->
 
 <!-- # Reading
-## Publications [TBD]
+## Publications 
 {% include feature_row id="feature_publications" %}
-## Books [TBD]
+## Books 
 {% include feature_row id="feature_books" %} -->

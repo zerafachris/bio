@@ -20,40 +20,36 @@ intro:
   - excerpt: As a distinguished data leader and accomplished scientist, I leverage a Ph.D. in Artificial Intelligence, backed by over a decade of experience. With a strategic focus on Artificial Intelligence, Machine Learning, Data Platform development, and a proven track record in leadership, I consistently exceeds expectations, driving global impact through transformative data initiatives.
 
 feature_top3:
-  - excerpt: "AI Data Platform 1"
+  - excerpt: "AI Data Platform"
     url: "https://github.com/zerafachris/ai_data_platform.git"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - excerpt: "Placeholder 2"
-    url: "#test-link"
+  - excerpt: "ML Templates"
+    url: "https://github.com/zerafachris/playGround/tree/master/published/MLtemplates"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - excerpt: "Placeholder 3"
-    url: "#test-link"
+  - excerpt: "Basic Sentiment Analysis"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/sentimentAnalysisApp/00_readme.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_igaming:
   - excerpt: "Casino - Employing a Churn Prediction and Customer Value Prediction model to increase sales"
-    url: "#test-link"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/ChurnPrediction_CLTV/0_Overview.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - excerpt: "Casino - Early Customer Classifier"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - excerpt: "Placeholder 3"
-    url: "#test-link"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/iGamingAnalytics/0_readme.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_platform:
-  - excerpt: "Placeholder 1"
-    url: "#test-link"
+  - excerpt: "Deploying ML Classifier as an API using Flask"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/deployingML/0_readme.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - excerpt: "Deploying ML Classifier as an API using Flask"
-    url: "#test-link"
+  - excerpt: "1"
+    url: "2"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - excerpt: "Placeholder 3"
@@ -62,102 +58,98 @@ feature_platform:
     btn_class: "btn--primary"
 
 feature_ml:
-  - excerpt: "ML Templates"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - excerpt: "COVID-19 Predictions for Malta"
-    url: "#test-link"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/covid19_malta_prediction/COVID_19_Malta_Predict.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - excerpt: "Predicting the results for the 2018 Fifa World Cup"
-    url: "#test-link"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/WorldCup2018Predictions/00_intro.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - excerpt: "House price prediction for the Maltese Market"
-    url: "#test-link"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/maltaHousePricing/00_MaltaHousePrices.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_dl:
-  - excerpt: "Placeholder 1"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - excerpt: "Placeholder 2"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - excerpt: "Placeholder 3"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+# feature_dl:
+#   - excerpt: "Placeholder 1"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - excerpt: "Placeholder 2"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - excerpt: "Placeholder 3"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
 
 feature_analytics:
   - excerpt: "Malta Property Bubble Analysis"
-    url: "#test-link"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/maltaPropertyBubble/propertyBubble.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - excerpt: "Efficiency frontier and Dash"
-    url: "#test-link"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/EFT/00_readme_eft.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - excerpt: "Chess analytics"
-    url: "#test-link"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/chessAnalytics/ChessAnalytics.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_miscellaneous:
   - excerpt: "Approximate Pi numerically using Monte Carlo Simulations"
-    url: "#test-link"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/monteCarloSimPi/MonteCarloPi.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - excerpt: "Hash Code 2018 Pizza Slicer Practice Problem"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  # - excerpt: "Hash Code 2018 Pizza Slicer Practice Problem"
+  #   url: "#test-link"
+  #   btn_label: "Read More"
+  #   btn_class: "btn--primary"
   - excerpt: "Simulating a queue in a post office"
-    url: "#test-link"
+    url: "https://github.com/zerafachris/playGround/blob/master/published/Queueing/Queueing.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"    
 
-feature_training:
-  - excerpt: "Intro to ML"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+# feature_training:
+#   - excerpt: "Intro to ML"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
 
-feature_books:
-  - excerpt: "An Introduction to Statistical Learning with Applications in R"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - excerpt: "The Elements of Statistical Learning: Data Mining, Inference, and Prediction"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - excerpt: "Machine Learning Yearning "
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+# feature_books:
+#   - excerpt: "An Introduction to Statistical Learning with Applications in R"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - excerpt: "The Elements of Statistical Learning: Data Mining, Inference, and Prediction"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - excerpt: "Machine Learning Yearning "
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
 
-feature_publications:
-  - excerpt: "Placeholder 1"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - excerpt: "Placeholder 2"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - excerpt: "Placeholder 3"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - excerpt: "Placeholder 4"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+# feature_publications:
+#   - excerpt: "Placeholder 1"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - excerpt: "Placeholder 2"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - excerpt: "Placeholder 3"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - excerpt: "Placeholder 4"
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
 
 
 # feature_books:
@@ -196,16 +188,16 @@ toc_icon: "cog"
 {% include feature_row id="feature_platform"%}
 ## Machine Learning [TBD]
 {% include feature_row id="feature_ml" %}
-## Deep Learning [TBD]
-{% include feature_row id="feature_dl"%}
+<!-- ## Deep Learning [TBD]
+{% include feature_row id="feature_dl"%} -->
 ## Analytics, Visualisations, EDA [TBD]
 {% include feature_row id="feature_analytics"%}
 
-# Training [TBD]
-{% include feature_row id="feature_training" %}
+<!-- # Training [TBD]
+{% include feature_row id="feature_training" %} -->
 
-# Reading
+<!-- # Reading
 ## Publications [TBD]
 {% include feature_row id="feature_publications" %}
 ## Books [TBD]
-{% include feature_row id="feature_books" %}
+{% include feature_row id="feature_books" %} -->

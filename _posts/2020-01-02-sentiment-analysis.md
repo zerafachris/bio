@@ -1,7 +1,5 @@
 ---
 title: "Simple Sentiment Analysis"
-categories:
-  - Blog
 tags:
   - NLP
   - Sentiment-Analysis

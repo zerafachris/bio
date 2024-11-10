@@ -1,7 +1,5 @@
 ---
 title: "AI Data Platform"
-categories:
-  - blog
 tags:
   - Platform
 link: https://github.com/zerafachris/ai_data_platform/blob/main/README.md

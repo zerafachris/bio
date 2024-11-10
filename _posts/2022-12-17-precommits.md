@@ -1,7 +1,5 @@
 ---
 title: "Ensure Good Coding standards with pre-commit hooks"
-categories:
-  - Blog
 tags:
   - MLOps
   - Productionisation

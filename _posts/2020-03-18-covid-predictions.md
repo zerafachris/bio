@@ -1,7 +1,5 @@
 ---
 title: "COVID-19 Predictions for Malta"
-categories:
-  - Blog
 tags:
   - ML
   - feature-engineering

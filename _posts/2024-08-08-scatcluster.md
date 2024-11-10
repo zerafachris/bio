@@ -1,7 +1,5 @@
 ---
 title: "ScatCluster - Earthquake Analysis"
-categories:
-  - Blog
 tags:
   - ML
   - DL

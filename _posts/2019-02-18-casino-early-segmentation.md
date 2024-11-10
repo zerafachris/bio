@@ -1,7 +1,5 @@
 ---
 title: "Early Segmentation for online Casino Players"
-categories:
-  - Blog
 tags:
   - iGaming
   - Segmentation

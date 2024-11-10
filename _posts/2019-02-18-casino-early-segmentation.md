@@ -4,6 +4,7 @@ tags:
   - iGaming
   - Segmentation
   - ML
+  - EDA
 link: https://github.com/zerafachris/playGround/blob/master/published/iGamingAnalytics/readme.md
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /posts/
+permalink: /posts
 # date: 2016-03-23T11:48:41-04:00
 title: Portfolio
 # entries_layout: grid

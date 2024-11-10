@@ -6,7 +6,7 @@ tags:
   - MLOps
   - Productionisation
   - API
-link: https://github.com/zerafachris/playGround/blob/master/published/Queueing/Queueing.ipynb
+link: https://github.com/zerafachris/playGround/blob/master/published/Queueing/README.md
 ---
 
 

@@ -7,7 +7,7 @@ tags:
   - Productionisation
   - AI-team
   - Code-standards
-link: https://github.com/zerafachris/pre-commit-hooks
+link: https://github.com/zerafachris/pre-commit-hooks/blob/main/README.md
 ---
 
 A collection of pre-commit hooks for better Python programming.

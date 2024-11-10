@@ -6,7 +6,7 @@ tags:
   - ML
   - EDA
   - Feature Engineering
-link: https://github.com/zerafachris/playGround/blob/master/published/WorldCup2018Predictions/00_intro.ipynb
+link: https://github.com/zerafachris/playGround/blob/master/published/WorldCup2018Predictions/readme.md
 ---
 
 Interesting results from EDA and Feature engineering using past football data.

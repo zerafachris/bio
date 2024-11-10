@@ -6,7 +6,7 @@ tags:
   - ML
   - Property
   - Feature-Engineering
-link: https://github.com/zerafachris/playGround/blob/master/published/maltaHousePricing/00_MaltaHousePrices.ipynb
+link: https://github.com/zerafachris/playGround/blob/master/published/maltaHousePricing/readme.md
 ---
 
 This project was put together for the Data X - An Introduction to Data Science: Storage, Visualisation and Analysis. This was one of my first attempts and utilised R.

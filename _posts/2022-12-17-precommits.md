@@ -3,8 +3,6 @@ title: "Ensure Good Coding standards with pre-commit hooks"
 tags:
   - MLOps
   - Productionisation
-  - AI-team
-  - Code-standards
 link: https://github.com/zerafachris/pre-commit-hooks/blob/main/README.md
 ---
 

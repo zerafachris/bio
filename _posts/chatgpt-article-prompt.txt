@@ -1,1 +1,0 @@
-Based on the below, prepare a single professional markdown as a readme.md for a repository associated to the article with title:

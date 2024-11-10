@@ -1,7 +1,5 @@
 ---
 title: "Deploying ML Classifier as an API using Flask"
-categories:
-  - Blog
 tags:
   - MLOps
   - Productionisation

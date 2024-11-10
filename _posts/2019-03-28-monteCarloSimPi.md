@@ -1,7 +1,5 @@
 ---
 title: "Approximate Pi numerically using Monte Carlo Simulations"
-categories:
-  - Blog
 tags:
   - MLOps
   - Productionisation

@@ -1,7 +1,5 @@
 ---
 title: "Employing Churn Prediction and Customer Value Prediction models to increase sales for an online Casino"
-categories:
-  - Blog
 tags:
   - iGaming
   - CLV

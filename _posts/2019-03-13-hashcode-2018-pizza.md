@@ -1,12 +1,9 @@
 ---
 title: "Hash Code 2018 Pizza Slicer Practice Problem"
-categories:
-  - Blog
 tags:
   - ML
   - Optimization-Algorithms
   - Pythran
-
 # link: https://github.com/zerafachris/playGround/blob/master/published/deployingML/0_readme.ipynb
 ---
 

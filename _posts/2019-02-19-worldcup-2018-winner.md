@@ -1,7 +1,5 @@
 ---
 title: "Predicting the results for the 2018 Fifa World Cup"
-categories:
-  - Blog
 tags:
   - ML
   - EDA

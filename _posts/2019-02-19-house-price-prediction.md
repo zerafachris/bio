@@ -1,7 +1,5 @@
 ---
 title: "House price prediction for the Maltese Market"
-categories:
-  - Blog
 tags:
   - ML
   - Property

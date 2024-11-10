@@ -1,7 +1,5 @@
 ---
 title: "ML Templates"
-categories:
-  - Blog
 tags:
   - ML
 link: https://github.com/zerafachris/playGround/blob/master/published/MLtemplates/readme.md

@@ -1,7 +1,5 @@
 ---
 title: "Malta Property Bubble Analysis"
-categories:
-  - Blog
 tags:
   - Analytics
   - Feature-Engineering

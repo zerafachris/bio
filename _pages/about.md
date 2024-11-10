@@ -11,10 +11,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner-earth-nasa-1.jpg
   caption: "Photo credit: [**Billy Huynh**](https://unsplash.com/photos/blue-skies-filled-of-stars-W8KTS-mhFUE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
-
-toc: true
-toc_label: "Contents"
-toc_icon: "cog"  
+# toc: true
+# toc_label: "Contents"
+# toc_icon: "cog"  
 ---
 <!-- TODO update contents -->
 

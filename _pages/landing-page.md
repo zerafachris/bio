@@ -179,9 +179,9 @@ feature_miscellaneous:
 #     btn_label: "Read More"
 #     btn_class: "btn--primary"
 
-toc: true
-toc_label: "Contents"
-toc_icon: "cog"
+# toc: true
+# toc_label: "Contents"
+# toc_icon: "cog"
 ---
 
 {% include feature_row id="intro" type="center" %}

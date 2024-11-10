@@ -5,6 +5,7 @@ tags:
   - CLV
   - Churn
   - ML
+  - Segmentation
 link: https://github.com/zerafachris/playGround/blob/master/published/ChurnPrediction_CLTV/readme.md
 ---
 

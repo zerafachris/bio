@@ -44,53 +44,31 @@ header:
 # #     btn_label: "Read More"
 # #     btn_class: "btn--primary"
 
+---
 
-# # feature_books:
-# #   - excerpt: "Placeholder 1"
-# #     url: "#test-link"
-# #     btn_label: "Read More"
-# #     btn_class: "btn--primary"
-# #   - excerpt: "Placeholder 2"
-# #     url: "#test-link"
-# #     btn_label: "Read More"
-# #     btn_class: "btn--primary"
-# #   - excerpt: "Placeholder 3"
-# #     url: "#test-link"
-# #     btn_label: "Read More"
-# #     btn_class: "btn--primary"
-# #   - excerpt: "Placeholder 4"
-# #     url: "#test-link"
-# #     btn_label: "Read More"
-# #     btn_class: "btn--primary"
-
-# # toc: true
-# # toc_label: "Contents"
-# # toc_icon: "cog"
-# ---
-
-# <!-- {% include feature_row id="intro" type="center" %} -->
-# <!-- # Top 3  -->
-# {% include feature_row id="feature_top3" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
+<!-- # Top 3  -->
+<!-- {% include feature_row id="feature_top3" %} -->
 
 
-# <!-- # iGaming 
-# {% include feature_row id="feature_igaming" %}
+<!-- # iGaming 
+{% include feature_row id="feature_igaming" %}
 
-# # Tech
-# ## Platform Development 
-# {% include feature_row id="feature_platform"%}
-# ## Machine Learning 
-# {% include feature_row id="feature_ml" %}
-# <!-- ## Deep Learning 
-# {% include feature_row id="feature_dl"%} -->
-# <!-- ## Analytics, Visualisations, EDA  --> -->
-# <!-- {% include feature_row id="feature_analytics"%} -->
+# Tech
+## Platform Development 
+{% include feature_row id="feature_platform"%}
+## Machine Learning 
+{% include feature_row id="feature_ml" %}
+<!-- ## Deep Learning 
+{% include feature_row id="feature_dl"%} -->
+<!-- ## Analytics, Visualisations, EDA  --> -->
+<!-- {% include feature_row id="feature_analytics"%} -->
 
-# <!-- # Training 
-# {% include feature_row id="feature_training" %} -->
+<!-- # Training 
+{% include feature_row id="feature_training" %} -->
 
-# <!-- # Reading
-# ## Publications 
-# {% include feature_row id="feature_publications" %}
-# ## Books 
-# {% include feature_row id="feature_books" %} -->
+<!-- # Reading
+## Publications 
+{% include feature_row id="feature_publications" %}
+## Books 
+{% include feature_row id="feature_books" %} -->

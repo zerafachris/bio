@@ -61,6 +61,7 @@ google_site_verification: "JtMDjGGvDVUMyySqt71k48ftpim0Y9WZSUY2_qFZROY"
 
 include:
   - _pages
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -88,7 +89,7 @@ plugins:
 author:
   name   : "Christopher Zerafa, PhD"
   # avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data Leader and Scientist, Driving Transformative Innovations at the Intersection of AI and Technology."
+  bio    : "Data leader, driving transformative change at the intersection of AI and technology."
   # location: "Malta"
   email:
   links:

@@ -184,12 +184,12 @@ feature_miscellaneous:
 # toc_icon: "cog"
 ---
 
-{% include feature_row id="intro" type="center" %}
-# Top 3 
+<!-- {% include feature_row id="intro" type="center" %} -->
+<!-- # Top 3  -->
 {% include feature_row id="feature_top3" %}
 
 
-# iGaming 
+<!-- # iGaming 
 {% include feature_row id="feature_igaming" %}
 
 # Tech
@@ -199,8 +199,8 @@ feature_miscellaneous:
 {% include feature_row id="feature_ml" %}
 <!-- ## Deep Learning 
 {% include feature_row id="feature_dl"%} -->
-## Analytics, Visualisations, EDA 
-{% include feature_row id="feature_analytics"%}
+<!-- ## Analytics, Visualisations, EDA  --> -->
+<!-- {% include feature_row id="feature_analytics"%} -->
 
 <!-- # Training 
 {% include feature_row id="feature_training" %} -->

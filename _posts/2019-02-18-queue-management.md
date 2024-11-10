@@ -1,7 +1,7 @@
 ---
 title: "Simulating a queue in a post office"
 categories:
-  - Blog
+  - Portofolio
 tags:
   - MLOps
   - Productionisation

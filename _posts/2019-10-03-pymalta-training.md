@@ -3,6 +3,7 @@ title: "PyMalta Machine Learning Events"
 tags:
   - ML
   - Training
+  - Event
 link: https://github.com/PyMalta/Introduction_to_ML_CZ/tree/master
 
 toc: true

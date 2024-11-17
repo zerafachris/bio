@@ -2,6 +2,7 @@
 title: "ML Templates"
 tags:
   - ML
+  - Training
 link: https://github.com/zerafachris/playGround/blob/master/published/MLtemplates/readme.md
 ---
 

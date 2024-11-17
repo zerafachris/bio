@@ -4,6 +4,7 @@ tags:
   - ML
   - DL
   - MLOps
+  - Training
 link: https://github.com/zerafachris/g2net_2nd_training_school_malta_mar_2020
 ---
 In March 2020, I had the privilege of organizing an international training school as part of the [g2net](https://indico.ego-gw.it/event/46/) CA17137 network for Gravitational Waves, Geophysics, and Machine Learning (G2Net). Hosted in Malta, this event brought together experts from diverse fields to explore the intersection of gravitational wave physics, geophysics, and advanced computing techniques. The training school was designed to enhance the understanding and application of machine learning (ML) and deep learning (DL) to solve complex problems in gravitational wave astronomy.

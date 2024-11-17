@@ -156,3 +156,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+relative_links:
+  enabled: true
+  collections: true

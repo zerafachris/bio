@@ -15,7 +15,7 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
-  gem "faraday-retry"
+  gem "jekyll-relative-links"
 end
 
 gem "webrick", "~> 1.8"

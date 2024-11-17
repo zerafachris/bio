@@ -117,6 +117,9 @@ footer:
     - label: 'Tags'
       icon: "fas fa-fw fa-tags"
       url: "/bio/tags/"
+    - label: 'Posts'
+      icon: "fas fa-fw fa-file"
+      url: "/bio/posts/"
     
 
 defaults:

@@ -116,7 +116,7 @@ footer:
       url: "https://www.linkedin.com/in/christopherzerafa/"
     - label: 'Tags'
       icon: "fas fa-fw fa-tags"
-      url: "/tags/"
+      url: "/bio/tags/"
     
 
 defaults:

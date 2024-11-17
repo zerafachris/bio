@@ -25,8 +25,4 @@ header:
 # #     url: "#test-link"
 # #     btn_label: "Read More"
 # #     btn_class: "btn--primary"
-
-toc: true
-toc_label: "Contents"
-toc_icon: "cog"
 ---

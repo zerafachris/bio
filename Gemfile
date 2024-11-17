@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "remote_markdown"
+  gem "faraday-retry"
 end
 
 gem "webrick", "~> 1.8"

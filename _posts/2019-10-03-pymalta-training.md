@@ -1,5 +1,5 @@
 ---
-title: "Simple Sentiment Analysis"
+title: "PyMalta Machine Learning Events"
 tags:
   - ML
   - Training

@@ -26,7 +26,7 @@ header:
 # #     btn_label: "Read More"
 # #     btn_class: "btn--primary"
 
-# # feature_publications:
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
-
-<!-- {% include feature_row id="intro" type="center" %} -->

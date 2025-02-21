@@ -7,7 +7,10 @@ toc: true
 ---
 
 # Predicting Customer Churn with Bayesian Models: A Data Science Team Innovation
-![Customer Purchase Patterns](/assets/images/articles/churn_1_header_pexels-rostislav-30767251.jpg)
+
+<figure>
+	<a href="https://images.pexels.com/photos/30767251/pexels-photo-30767251/free-photo-of-futuristic-digital-geometric-shape-with-neon-glow.jpeg?auto=compress"><img src="https://images.pexels.com/photos/30767251/pexels-photo-30767251/free-photo-of-futuristic-digital-geometric-shape-with-neon-glow.jpeg?auto=compress"></a>
+</figure>
 
 Customer churn – it's a challenge every business faces. Losing customers impacts revenue and growth, making customer retention a top priority.
 
@@ -19,6 +22,10 @@ In a recent research paper, our team tackled some practical limitations of the B
 While a general formula exists for calculating the probability of any number of purchases (Equation 34 in the original BG/NBD model documentation), we discovered that focusing on the "no purchase" scenario allowed for significant simplification. By setting the number of purchases to zero, we dramatically reduced the equation's complexity. This simplification is important because it enables more efficient and accurate churn prediction.
 
 ## Addressing Computational Challenges
+
+<figure>
+	<a href="https://images.pexels.com/photos/5238079/pexels-photo-5238079.jpeg?auto=compress"><img src="https://images.pexels.com/photos/5238079/pexels-photo-5238079.jpeg?auto=compress"></a>
+</figure>
 
 ![Computational Challanges](/assets/images/articles/churn_2_numerical_stability_pexels-karolina-grabowska-5238079.jpg)
 

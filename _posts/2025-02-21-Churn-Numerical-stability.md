@@ -22,11 +22,9 @@ While a general formula exists for calculating the probability of any number of 
 
 ![Computational Challanges](/assets/images/articles/churn_2_numerical_stability_pexels-karolina-grabowska-5238079.jpg)
 
-
 Another significant contribution of our work was addressing potential numerical issues. The calculations involved in churn prediction can sometimes lead to extremely large or small numbers, causing unexpected behaviour due to the limited precision of floating-point arithmetic [Goldberg, 1991](https://dl.acm.org/doi/10.1145/103162.103163). This can manifest as "overflow," where a number exceeds the maximum representable value, or "underflow," where a number is smaller than the minimum representable value and gets rounded to zero.
 
-
-To overcome this, we implemented a clever numerical technique, sometimes called the [*"log-sum-exp trick"*](https://math.stackexchange.com/questions/648514/preventing-underflow-log-sum-exp-trick). This technique involves using logarithms and exponentials to rewrite the equations to avoid these extreme values, ensuring the accuracy and stability of our churn predictions.
+To overcome this, we implemented a clever numerical technique using logarithms and exponentials to rewrite the equations to avoid these extreme values, ensuring the accuracy and stability of our churn predictions. Avid readers are urged to have a look at the paper referenced below.
 
 ## From Theory to Practice: Implementation and Impact
 This research isn't just theoretical. We've translated our findings into practical code, with an implementation accepted as part of the open-source [PyMC Marketing](https://github.com/pymc-labs/pymc-marketing/releases/tag/0.11.0) library. 

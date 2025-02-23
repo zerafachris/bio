@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  summarize_and_post:
+  convert_and_post:
     runs-on: ubuntu-latest
 
     steps:
@@ -15,30 +15,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Install browser-operator
-      - name: Install Browser Operator
-        run: |
-          npm install browser-operator
+      # Step 2: Convert Markdown to HTML
+      - name: Convert Markdown to HTML
+        uses: jd-solanki/gh-action-md-to-html@v1.3.0
+        with:
+          files: '[["_posts/example.md", "linkedin_articles/"]]'  # Replace with your file paths
 
-      # Step 3: Summarize Markdown Content
-      - name: Summarize Article
-        id: summarize
-        run: |
-          node -e "
-          const { BrowserOperator } = require('browser-operator');
-          (async () => {
-              const operator = await BrowserOperator.create();
-              await operator.page.act('go to markdown file URL, read content, summarize it');
-              const summary = await operator.page.act('extract summary');
-              console.log(summary);
-              await operator.stop();
-          })();
-          "
-
-      # Step 4: Post Summary to LinkedIn
-      - name: Post Summary to LinkedIn
+      # Step 3: Post HTML to LinkedIn
+      - name: Post Article to LinkedIn
         uses: p4p1/linkedin-marketing-workflow@main
         with:
           LINKEDIN_SECRET: ${{ secrets.LINKEDIN_SECRET }}  # Your LinkedIn API token stored in secrets
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}         # GitHub token for authentication
-          POST_CONTENT: ${{ steps.summarize.outputs.summary }}  # Use the summary from the previous step
+          FILE_PATH: linkedin_articles/                     # Path to the converted HTML file

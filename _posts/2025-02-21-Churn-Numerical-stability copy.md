@@ -3,10 +3,10 @@ title: "Predicting Customer Churn with Bayesian Models: A Data Science Team Inno
 tags:
   - Statistics
   - Churn
+  - iGaming
 toc: true
 ---
 
-# Predicting Customer Churn with Bayesian Models: A Data Science Team Innovation
 <figure>
 	<a href="https://images.pexels.com/photos/30767251/pexels-photo-30767251/free-photo-of-futuristic-digital-geometric-shape-with-neon-glow.jpeg?auto=compress"><img src="https://images.pexels.com/photos/30767251/pexels-photo-30767251/free-photo-of-futuristic-digital-geometric-shape-with-neon-glow.jpeg?auto=compress"></a>
 </figure>

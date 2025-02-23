@@ -6,7 +6,12 @@ tags:
 toc: true
 ---
 
+<figure>
+	<a href=""><img src="https://media.licdn.com/dms/image/v2/D5612AQGfAgbi_9JjBg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1738055368873?e=1746057600&v=beta&t=jnZDb4galkseYYd9HFVhI9tHYPrzSLme_YbTqupq7mo"></a>
+</figure>
+
 As we progress through 2025, the landscape of artificial intelligence tools continues to evolve at an unprecedented pace. As Head of Data Science, I find it crucial to provide a thorough analysis of the current state of AI tools, particularly Large Language Models (LLMs), and their implications for professional applications. This assessment draws from both hands-on experience and strategic evaluation of the technology landscape.
+
 
 ## The Evolution of Foundation Models
 

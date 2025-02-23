@@ -10,6 +10,7 @@ toc: true
 <figure>
 	<a href="https://images.pexels.com/photos/30767251/pexels-photo-30767251/free-photo-of-futuristic-digital-geometric-shape-with-neon-glow.jpeg?auto=compress"><img src="https://images.pexels.com/photos/30767251/pexels-photo-30767251/free-photo-of-futuristic-digital-geometric-shape-with-neon-glow.jpeg?auto=compress"></a>
 </figure>
+
 Customer churn – it's a challenge every business faces. Losing customers impacts revenue and growth, making customer retention a top priority.
 
 One of the key models is the BG/NBD model, a powerful Bayesian statistical approach for understanding customer behaviour and predicting future purchasing patterns. This model helps us estimate the probability of a customer remaining active over a certain period.

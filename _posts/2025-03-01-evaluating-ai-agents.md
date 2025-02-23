@@ -9,6 +9,7 @@ tags:
   - AI-Agents
 toc: true
 ---
+
 <figure>
 	<a href=""><img src="https://images.pexels.com/photos/17486099/pexels-photo-17486099/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-image-visualises-artificial-general-intelligence-or-agi-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l.png?auto=compress"></a>
 </figure>
@@ -43,6 +44,14 @@ AI agents are being used in diverse sectors:
 
 For IT professionals or those with a deeper interest in technology:
 
+### Key Evaluation Concepts
+
+1. **Function Calling Assessment**: Evaluate how well an AI agent uses its tools correctly, including accuracy in function selection and proper parameter handling.
+
+2. **Prompt Adherence**: Measure how well an AI agent follows instructions and stays within given parameters, assessing compliance with instructions and consistency in responses.
+
+3. **Tone, Toxicity, and Context Relevance**: Focus on the qualitative aspects of AI agent responses, ensuring communications are appropriate for context, monitoring for harmful content, and verifying that responses align with the situation.
+
 ### Technical Specifications
 
 1. **Algorithmic Complexity**: Understand the type of machine learning algorithms used (e.g., supervised learning vs unsupervised learning).
@@ -72,8 +81,18 @@ For IT professionals or those with a deeper interest in technology:
 3. **Continuous Monitoring Tools**:
    - Implement monitoring solutions that track performance over time post-deployment.
 
-By following these guidelines—whether from a non-tech perspective focusing on practical applications or diving deeper into technical specifications—organisations can effectively evaluate AI agents tailored to their specific needs while ensuring alignment with broader strategic goals.
+### Metrics and Tools for Evaluation
 
----
+To ensure robust evaluation, organisations can leverage a variety of metrics and tools:
 
-This guide provides both foundational knowledge suitable for non-tech stakeholders while also offering detailed insights beneficial for technical teams involved in evaluating advanced features of modern AI systems today!
+- **Deterministic Metrics**: Cost, response time, string presence, perplexity, BLEU/ROUGE scores.
+- **Probabilistic Metrics**: Factual correctness, relevance, toxicity detection.
+- **Evaluation Tools and Frameworks**:
+  - Libraries: DeepEval, Ragas, Promptfoo, HuggingFace Evaluate.
+  - Platforms: LangSmith, Weights & Biases, OpenAI Eval API.
+
+These tools streamline testing processes and provide actionable insights into agent performance across key dimensions.
+
+## Conclusion
+
+By following these guidelines—whether from a non-tech perspective focusing on practical applications or diving deeper into technical specifications—organisations can effectively evaluate AI agents tailored to their specific needs while ensuring alignment with broader strategic goals. This structured approach not only enhances understanding but also facilitates the responsible deployment of AI technologies within various sectors.

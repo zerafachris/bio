@@ -45,6 +45,12 @@ lunr:
 ## Google
 google_site_verification: "JtMDjGGvDVUMyySqt71k48ftpim0Y9WZSUY2_qFZROY"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "GTM-WLMBKQ27"
+    anonymize_ip: false # default
+
 
 include:
   - _pages

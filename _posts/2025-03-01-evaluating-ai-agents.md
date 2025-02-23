@@ -14,6 +14,8 @@ toc: true
 	<a href=""><img src="https://images.pexels.com/photos/17486099/pexels-photo-17486099/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-image-visualises-artificial-general-intelligence-or-agi-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l.png?auto=compress"></a>
 </figure>
 
+# Evaluating AI Agents: A Comprehensive Guide
+
 Evaluating AI agents is a crucial step for organisations looking to integrate artificial intelligence into their operations. Whether you are a business leader, IT professional, or simply interested in how AI can enhance your work processes, this guide will walk you through the essential steps and considerations for assessing AI agents.
 
 ## Introduction for Non-Tech Professionals
@@ -92,6 +94,83 @@ To ensure robust evaluation, organisations can leverage a variety of metrics and
   - Platforms: LangSmith, Weights & Biases, OpenAI Eval API.
 
 These tools streamline testing processes and provide actionable insights into agent performance across key dimensions.
+
+## AI Agent Evaluation Checklist
+<figure>
+	<a href=""><img src="https://images.pexels.com/photos/8850709/pexels-photo-8850709.jpeg?auto=compress"></a>
+</figure>
+
+This checklist provides a structured approach to evaluating AI agents, ensuring that all critical aspects are considered for both non-technical and technical stakeholders.
+
+### 1. Define Purpose and Goals
+- [ ] Identify the specific objectives for implementing the AI agent.
+- [ ] Determine the key tasks the AI agent should automate or assist with.
+- [ ] Establish measurable success criteria.
+
+### 2. Assess Ease of Use
+- [ ] Evaluate the user interface for intuitiveness and accessibility.
+- [ ] Gather feedback from potential users regarding usability.
+- [ ] Check for available training resources or documentation.
+
+### 3. Integration Capabilities
+- [ ] Review compatibility with existing systems and software.
+- [ ] Assess ease of integration with current workflows.
+- [ ] Identify any potential disruptions during implementation.
+
+### 4. Conduct Cost-Benefit Analysis
+- [ ] Estimate initial investment costs (software, hardware, training).
+- [ ] Calculate potential long-term savings or revenue enhancements.
+- [ ] Consider ongoing maintenance and support costs.
+
+### 5. Evaluate Ethical Implications
+- [ ] Assess data privacy measures in place for handling sensitive information.
+- [ ] Identify any biases in decision-making algorithms.
+- [ ] Consider the impact on employee roles and job displacement.
+
+### 6. Real-World Application Assessment
+- [ ] Review case studies or examples of similar AI agents in use within your industry.
+- [ ] Evaluate the effectiveness of AI agents in real-world scenarios.
+
+### 7. Technical Evaluation
+#### Key Evaluation Concepts
+- [ ] **Function Calling Assessment**: 
+  - Evaluate accuracy in function selection and parameter handling.
+  
+- [ ] **Prompt Adherence**: 
+  - Measure compliance with instructions and consistency in responses.
+  
+- [ ] **Tone, Toxicity, and Context Relevance**: 
+  - Ensure communications are contextually appropriate and free from harmful content.
+
+#### Technical Specifications
+- [ ] Understand the algorithms used (e.g., supervised vs unsupervised learning).
+- [ ] Identify data requirements (structured vs unstructured).
+  
+#### Scalability and Performance Metrics
+- [ ] Assess how well the system handles increased load over time.
+- [ ] Evaluate performance metrics such as accuracy rates and precision/recall scores.
+
+#### Security Features
+- [ ] Verify encryption methods used to protect data.
+- [ ] Check compliance with relevant regulations (e.g., GDPR).
+
+#### Maintenance Costs
+- [ ] Consider costs for updates or retraining models as new data becomes available.
+- [ ] Evaluate vendor support services for troubleshooting assistance.
+
+### 8. Advanced Evaluation Techniques
+- [ ] Implement model explainability techniques (e.g., SHAP values).
+- [ ] Conduct adversarial testing to assess resilience against misleading inputs.
+- [ ] Set up continuous monitoring tools to track performance over time.
+
+### 9. Metrics and Tools for Evaluation
+#### Metrics
+- [ ] Determine deterministic metrics (cost, response time, string presence).
+- [ ] Assess probabilistic metrics (factual correctness, relevance, toxicity detection).
+
+#### Tools
+- [ ] Identify evaluation libraries (e.g., DeepEval, Ragas).
+- [ ] Explore platforms for evaluation (e.g., LangSmith, Weights & Biases).
 
 ## Conclusion
 

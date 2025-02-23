@@ -27,9 +27,7 @@ In this analogy, imagine a circular cave with a door that can only be opened wit
 1. **Initial Setup**: P enters the cave and chooses one of the two paths (C or D) to approach the door. V does not see which path P takes.
 2. **Verification Process**: Once P is inside the cave, V moves to point B and randomly asks P to exit from either path C or D.
 3. **Proving Knowledge**: If P knows the password, they can open the door and exit from whichever path V requests. If P does not know the password, they can only exit from the same path they initially chose, making it impossible to consistently satisfy V's requests over multiple rounds.
-4. **Repeated Trials**: This process is repeated multiple times (typically 10-20 rounds). Each time V asks P to exit from a random path, P's chances of successfully guessing correctly without knowing the password are 50%. However, as the number of rounds increases, the probability that P is merely guessing diminishes significantly. For example, after 20 rounds, the chance of successfully deceiving V drops to approximately 1 in $$
-2^{20}
-$$, or about 1 in a million.
+4. **Repeated Trials**: This process is repeated multiple times (typically 10-20 rounds). Each time V asks P to exit from a random path, P's chances of successfully guessing correctly without knowing the password are 50%. However, as the number of rounds increases, the probability that P is merely guessing diminishes significantly. For example, after 20 rounds, the chance of successfully deceiving V drops to approximately 1 in $2^{20}$, or about 1 in a million.
 
 ### Key Properties of Zero-Knowledge Proofs
 
@@ -49,8 +47,6 @@ Moreover, some interpretations simplify this analogy too much by suggesting that
 ### Conclusion
 
 The Ali Baba Cave analogy effectively illustrates how zero-knowledge proofs function in cryptography by demonstrating how information can be verified without being disclosed. This principle has significant implications for privacy and security in various applications such as blockchain technology and secure communications. Understanding ZKPs through such analogies not only aids in grasping their mechanics but also highlights their importance in modern cryptographic practices.
-
-<div style="text-align: center">⁂</div>
 
 [^1]: https://arxiv.org/abs/2308.07309
 

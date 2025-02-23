@@ -19,7 +19,7 @@ jobs:
       - name: Convert Markdown to HTML
         uses: jd-solanki/gh-action-md-to-html@v1.3.0
         with:
-          files: '[["_posts/example.md", "linkedin_articles/"]]'  # Replace with your file paths
+          files: '[["_posts/*.md", "linkedin_articles/"]]'  # Replace with your file paths
 
       # Step 3: Post HTML to LinkedIn
       - name: Post Article to LinkedIn

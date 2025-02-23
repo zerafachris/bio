@@ -8,14 +8,13 @@ tags:
   - Team
 toc: true
 ---
-
-The data field is characterized by rapid innovation and evolving roles, making it essential for professionals to understand the different career levels. This guide offers a clear overview of common data roles, outlining their respective expectations, contributions, and how they align within an organization's broader objectives.
-
 <figure>
 	<a href=""><img src="https://images.pexels.com/photos/776655/pexels-photo-776655.jpeg"></a>
 </figure>
 
-Understanding the Data Career Path
+The data field is characterized by rapid innovation and evolving roles, making it essential for professionals to understand the different career levels. This guide offers a clear overview of common data roles, outlining their respective expectations, contributions, and how they align within an organization's broader objectives.
+
+## Understanding the Data Career Path
 
 This section synthesizes key aspects of Data Science, Machine Learning, and Data Engineering to provide a holistic perspective on career progression within the data domain. The descriptions below are aligned with industry best practices and aim to offer actionable insights for both individuals and organizations.
 

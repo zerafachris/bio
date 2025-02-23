@@ -14,8 +14,6 @@ toc: true
 	<a href=""><img src="https://images.pexels.com/photos/17486099/pexels-photo-17486099/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-image-visualises-artificial-general-intelligence-or-agi-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l.png?auto=compress"></a>
 </figure>
 
-# Evaluating AI Agents: A Comprehensive Guide
-
 Evaluating AI agents is a crucial step for organisations looking to integrate artificial intelligence into their operations. Whether you are a business leader, IT professional, or simply interested in how AI can enhance your work processes, this guide will walk you through the essential steps and considerations for assessing AI agents.
 
 ## Introduction for Non-Tech Professionals

@@ -48,7 +48,7 @@ google_site_verification: "JtMDjGGvDVUMyySqt71k48ftpim0Y9WZSUY2_qFZROY"
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "GTM-WLMBKQ27"
+    tracking_id: "G-46G8R7CZ33"
     anonymize_ip: false # default
 
 

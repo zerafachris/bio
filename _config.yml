@@ -84,7 +84,7 @@ author:
   # avatar : "/assets/images/bio-photo.jpg"
   bio    : "Data leader, driving transformative change at the intersection of AI and technology."
   # location: "Malta"
-  email: "zerafachris@gmail.com"
+  # email: "zerafachris@gmail.com"
   links:
     - label: "CV"
       icon: "fas fa-fw fa-university"

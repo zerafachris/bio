@@ -12,7 +12,7 @@ toc: true
 	<a href=""><img src="https://i.imgur.com/VZ002aL.jpeg"></a>
 </figure>
 
-Artificial Intelligence (AI) has become a transformative force in the field of data science, enabling teams to achieve unprecedented levels of efficiency and scalability. I this article I wanted to showcase how embracing AI can lead to **10x the performance of your data team**, leveraging its capabilities to automate routine tasks, enhance decision-making, and optimise resource allocation. In this article, I’ll share a practical example of how AI was used to solve a critical problem: determining storage requirements for Redis in a scalable system.
+Artificial Intelligence (AI) has become a transformative force in the field of data science, enabling teams to achieve unprecedented levels of efficiency and scalability. In this article I wanted to showcase how embracing AI can lead to **10x the performance of your data team**, leveraging its capabilities to automate routine tasks, enhance decision-making, and optimise resource allocation. In this article, I’ll share a practical example of how AI was used to solve a critical problem: determining storage requirements for Redis in a scalable system.
 
 
 ### Tackling the Ticket: Redis Storage Estimation

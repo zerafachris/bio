@@ -42,21 +42,21 @@ The task involved calculating the required storage for payloads containing 20 ga
 Traditionally, this ticket would have taken a mid-level data scientist between **1–2 hours** to complete. However, by leveraging AI tools and techniques, specifically **ChatGPT**, I was able to complete the task in just **5 minutes**. This dramatic reduction in time highlights the power of AI in automating repetitive yet essential tasks.
 
 To solve the problem efficiently, I used ChatGPT to generate a Python script that automated the entire analysis process. The prompt I used for this task is:
-```txt
-I need to answer the question - How large will I need to provision Redis? To do this, assuming a payload of 20 games per vertical (verticals are casino, sports and sweep), get the size required in to have a key-value in Redis as per the key-value sample below, multiply by this size by 1,000,000 players. Repeat for 30, 40, 50, all the way up to 100, in increments of 10 games. The redis key should be of type:
 
-KEY: ds-gre-last-played:{tenant_id}:{player_id}
 
-VALUE:
-
-{
-  casino: {game_ids  : [game_1, game_2, ...., game_n], last_played: dt, last_update_dt: dt}, 
-  sports :{event_ids  : [game_1, game_2, ...., game_n], last_played: dt, last_update_dt: dt}, 
-  sweep : {game_ids  : [game_1, game_2, ...., game_n], last_played: dt, last_update_dt: dt}
-  }
-
-Write a Python script that does this analysis for me
-```
+>*I need to answer the question - How large will I need to provision Redis? To do this, assuming a payload of 20 games per vertical (verticals are casino, sports and sweep), get the size required in to have a key-value in Redis as per the key-value sample below, multiply by this size by 1,000,000 players. Repeat for 30, 40, 50, all the way up to 100, in increments of 10 games. The redis key should be of type:*
+>
+>KEY: ds-gre-last-played:{tenant_id}:{player_id}
+>
+>VALUE:
+>
+>{
+>  casino: {game_ids  : [game_1, game_2, ...., game_n], last_played: dt, last_update_dt: dt}, 
+>  sports :{event_ids  : [game_1, game_2, ...., game_n], last_played: dt, last_update_dt: dt}, 
+>  sweep : {game_ids  : [game_1, game_2, ...., game_n], last_played: dt, last_update_dt: dt}
+>  }
+>
+>*Write a Python script that does this analysis for me*
 
 
 Below is the code provided by the AI:

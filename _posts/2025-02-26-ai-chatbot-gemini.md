@@ -9,17 +9,17 @@ toc: true
 ---
 
 <figure>
-	<a href=""><img src="https://i.imgur.com/QnKN9Mh.jpeg"></a>
+	<a href=""><img src="https://images.pexels.com/photos/17483869/pexels-photo-17483869/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-how-machine-learning-is-inspired-by-neuroscience-and-the-human-brain-it-was-created-by-novoto-studio-as-par.jpeg?auto=compress"></a>
 </figure>
 
 Artificial intelligence (AI) is transforming the way businesses interact with their customers, and organisations can now build their own AI-powered assistant. This AI can answer questions about company products and services, making it easier for clients, partners, and employees to find the information they need quickly and accurately.
 
-## How Can We Build It?
+## How Can You Build It?
 Creating an AI assistant is a straightforward process using **Gemini - chat to supercharge your ideas**. By following these **five simple steps**, you can quickly set up an AI-powered agent that provides clear, professional, and accurate explanations of your organisation’s products:
 
 1. **Log into** to [Gemini](https://gemini.google.com/).
 2. **Navigate to Gem Manager**.
-3. **Create a New Gem** by following the reference images provided (`image-20250225-144053.png`).
+3. **Create a New Gem** .
 4. **Define the Assistant’s Details** by giving it a name and clear instructions:
    - **Name**: *AI Assistant*
    - **Instructions**:

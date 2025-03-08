@@ -30,9 +30,7 @@ According to DeepSeek, 3FS can achieve a read throughput of 6.6 TiB/s on a 180-n
 As with most Python packages, you can install Smallpond using:
 
 ```
-
 uv pip install smallpond
-
 ```
 
 (Feel free to replace `uv` with `pip` if you prefer, but be warned, you might prefer `uv` for its speed).

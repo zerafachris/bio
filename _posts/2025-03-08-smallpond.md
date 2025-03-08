@@ -16,14 +16,16 @@ You might have seen some buzz about DeepSeek AI's new open-source tool, Smallpon
 
 ## What is Smallpond?
 
-Smallpond is a lightweight, distributed data processing framework designed to extend the capabilities of DuckDB. DuckDB is typically a single-node, in-process analytical database. Smallpond allows DuckDB to handle datasets that are larger than the memory capacity of a single machine by distributing the workload across a cluster of machines.  It enables parallel processing and distributed analytics.
+Smallpond[^1] is a lightweight, distributed data processing framework designed to extend the capabilities of DuckDB. DuckDB is typically a single-node, in-process analytical database. Smallpond allows DuckDB to handle datasets that are larger than the memory capacity of a single machine by distributing the workload across a cluster of machines.  It enables parallel processing and distributed analytics.
 Key features of Smallpond include:
 *   **Distributed Analytics:** Enables DuckDB to process larger-than-memory datasets by partitioning the data and running analytics tasks in parallel across multiple nodes.
 *   **Open Source Deployment:** Offers the potential for performant storage at a lower cost compared to proprietary alternatives, assuming you can manage the deployment.
 *   **Manual Partitioning:** Requires users to manually partition their data, which Smallpond then distributes across the nodes in the cluster for parallel processing.
 ## What is 3FS?
 3FS (Fire-Flyer File System) is a high-performance, parallel file system also developed by DeepSeek. It's designed and optimised for AI and HPC (High Performance Computing) workloads.  It aims to provide extremely high throughput and low latency by using SSDs (Solid State Drives) and RDMA (Remote Direct Memory Access) networking technology. 3FS functions as the high-speed, distributed storage backend that Smallpond uses to achieve its performance.
-According to DeepSeek, 3FS can achieve a read throughput of 6.6 TiB/s on a 180-node cluster.
+
+According to DeepSeek, 3FS can achieve a read throughput of 6.6 TiB/s on a 180-node cluster, which is significantly higher than many traditional distributed file systems[^2].
+
 ## How Can I Use It?
 As with most Python packages, you can install Smallpond using:
 
@@ -78,3 +80,5 @@ Smallpond and 3FS offer interesting and potentially powerful capabilities for sc
 So, is Spark dead?  Almost certainly not.  Smallpond is a promising technology, but it's not a drop-in replacement for existing data processing frameworks, and it requires significant investment to deploy and manage effectively.
 
 [^1]: https://github.com/deepseek-ai/smallpond
+
+[^2]: https://jurnals.net/deepseek-unveils-3fs-file-system-revolutionizing-ai-data-management/

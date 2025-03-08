@@ -1,5 +1,5 @@
 ---
-title: "using Smallpond"
+title: "How to Use Smallpond: A Comprehensive Guide"
 tags:
   - AI
   - LLM

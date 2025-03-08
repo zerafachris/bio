@@ -12,27 +12,20 @@ toc: true
 	<a href=""><img src="https://i.imgur.com/kXA5gHS.jpeg"></a>
 </figure>
 
- You might have seen some buzz about DeepSeek AI's new open-source tool, Smallpond, and its companion, 3FS. Claims of it being a "Spark killer" might have crossed your feed. While it's definitely interesting technology, let's take a more grounded look at what Smallpond is, who it's for, and whether it truly signals the end for established data processing frameworks.
+You might have seen some buzz about DeepSeek AI's new open-source tool, Smallpond, and its companion, 3FS. Claims of it being a "Spark killer" might have crossed your feed. While it's definitely interesting technology, let's take a more grounded look at what Smallpond is, who it's for, and whether it truly signals the end for established data processing frameworks.
 
- ## What is Smallpond?
+## What is Smallpond?
 
- Smallpond is a lightweight, distributed data processing framework designed to extend the capabilities of DuckDB. DuckDB is typically a single-node, in-process analytical database. Smallpond allows DuckDB to handle datasets that are larger than the memory capacity of a single machine by distributing the workload across a cluster of machines.  It enables parallel processing and distributed analytics.
-
- Key features of Smallpond include:
-
- *   **Distributed Analytics:** Enables DuckDB to process larger-than-memory datasets by partitioning the data and running analytics tasks in parallel across multiple nodes.
- *   **Open Source Deployment:** Offers the potential for performant storage at a lower cost compared to proprietary alternatives, assuming you can manage the deployment.
- *   **Manual Partitioning:** Requires users to manually partition their data, which Smallpond then distributes across the nodes in the cluster for parallel processing.
-
- ## What is 3FS?
-
- 3FS (Fire-Flyer File System) is a high-performance, parallel file system also developed by DeepSeek. It's designed and optimised for AI and HPC (High Performance Computing) workloads.  It aims to provide extremely high throughput and low latency by using SSDs (Solid State Drives) and RDMA (Remote Direct Memory Access) networking technology. 3FS functions as the high-speed, distributed storage backend that Smallpond uses to achieve its performance.
-
- According to DeepSeek, 3FS can achieve a read throughput of 6.6 TiB/s on a 180-node cluster.
-
- ## How Can I Use It?
-
- As with most Python packages, you can install Smallpond using:
+Smallpond is a lightweight, distributed data processing framework designed to extend the capabilities of DuckDB. DuckDB is typically a single-node, in-process analytical database. Smallpond allows DuckDB to handle datasets that are larger than the memory capacity of a single machine by distributing the workload across a cluster of machines.  It enables parallel processing and distributed analytics.
+Key features of Smallpond include:
+*   **Distributed Analytics:** Enables DuckDB to process larger-than-memory datasets by partitioning the data and running analytics tasks in parallel across multiple nodes.
+*   **Open Source Deployment:** Offers the potential for performant storage at a lower cost compared to proprietary alternatives, assuming you can manage the deployment.
+*   **Manual Partitioning:** Requires users to manually partition their data, which Smallpond then distributes across the nodes in the cluster for parallel processing.
+## What is 3FS?
+3FS (Fire-Flyer File System) is a high-performance, parallel file system also developed by DeepSeek. It's designed and optimised for AI and HPC (High Performance Computing) workloads.  It aims to provide extremely high throughput and low latency by using SSDs (Solid State Drives) and RDMA (Remote Direct Memory Access) networking technology. 3FS functions as the high-speed, distributed storage backend that Smallpond uses to achieve its performance.
+According to DeepSeek, 3FS can achieve a read throughput of 6.6 TiB/s on a 180-node cluster.
+## How Can I Use It?
+As with most Python packages, you can install Smallpond using:
 
 ```
 

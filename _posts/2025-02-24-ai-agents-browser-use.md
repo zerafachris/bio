@@ -2,7 +2,7 @@
 title: "Harnessing AI Agents with Browser Use: A Comprehensive Guide"
 tags:
   - ChatGPT
-  - Gen-AI
+  - AI
   - LLM
   - AI-Agents
 toc: true

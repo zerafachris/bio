@@ -2,7 +2,7 @@
 title: "A Comprehensive Guide to AI Models: Capabilities, Performance, and Recommendations"
 tags:
   - ChatGPT
-  - Gen-AI
+  - AI
   - LLM
   - AI-Agents
 toc: true

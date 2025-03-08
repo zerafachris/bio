@@ -4,7 +4,7 @@ tags:
   - DL
   - Productionisation
   - ChatGPT
-  - Gen-AI
+  - AI
   - LLM
   - AI-Agents
 toc: true

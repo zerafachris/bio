@@ -2,9 +2,9 @@
 title: "How AI is 10x'ing my Team Performance"
 tags:
   - ChatGPT
-  - Gen-AI
+  - AI
   - LLM
-  - DataTeam
+  - Team
 toc: true
 ---
 

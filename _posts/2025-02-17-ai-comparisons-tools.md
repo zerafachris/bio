@@ -2,7 +2,7 @@
 title: "A Data Science Leader's Perspective: A Comprehensive Analysis of Contemporary AI Tools"
 tags:
   - AI
-  - Gen-AI
+  - AI
 toc: true
 ---
 

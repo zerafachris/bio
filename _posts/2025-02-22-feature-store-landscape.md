@@ -2,9 +2,9 @@
 title: "The Current Landscape of Feature Stores"
 tags:
   - Productionisation
-  - Vector-Store
+  - VectorStore
   - MLOps
-  - Feature-Engineering
+  - FeatureEngineering
   - Platform
 toc: true
 ---

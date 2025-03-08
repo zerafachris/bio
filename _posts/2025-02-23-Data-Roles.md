@@ -4,7 +4,7 @@ tags:
   - ML
   - Analytics
   - ML
-  - Training
+  - Team
   - Team
 toc: true
 ---

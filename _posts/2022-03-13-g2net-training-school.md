@@ -4,7 +4,7 @@ tags:
   - ML
   - DL
   - MLOps
-  - Training
+  - Team
   - Event
 link: https://github.com/zerafachris/g2net_2nd_training_school_malta_mar_2020
 ---

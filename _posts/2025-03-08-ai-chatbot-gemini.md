@@ -2,7 +2,7 @@
 title: "How to build an AI Assistant for you Product"
 tags:
   - ChatGPT
-  - Gen-AI
+  - AI
   - LLM
   - AI-Agents
 toc: true

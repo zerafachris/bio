@@ -2,7 +2,7 @@
 title: "Malta Property Bubble Analysis"
 tags:
   - Analytics
-  - Feature-Engineering
+  - FeatureEngineering
   - Property
 link: https://github.com/zerafachris/playGround/blob/master/published/maltaPropertyBubble/readme.md
 ---

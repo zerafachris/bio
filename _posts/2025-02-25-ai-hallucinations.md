@@ -2,7 +2,7 @@
 title: "Understanding LLM Hallucinations: Identification and Mitigation Strategies"
 tags:
   - ChatGPT
-  - Gen-AI
+  - AI
   - LLM
   - AI-Agents
 toc: true

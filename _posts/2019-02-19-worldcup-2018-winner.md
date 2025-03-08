@@ -3,7 +3,7 @@ title: "Predicting the results for the 2018 Fifa World Cup"
 tags:
   - ML
   - EDA
-  - Feature-Engineering
+  - FeatureEngineering
 link: https://github.com/zerafachris/playGround/blob/master/published/WorldCup2018Predictions/readme.md
 ---
 

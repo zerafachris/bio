@@ -3,6 +3,8 @@ title: "The Factorio Learning Environment: A Different Benchmark for Evaluating 
 tags:
   - AI
   - LLM
+  - AIBenchmarking
+  - AGI
 toc: true
 ---
 

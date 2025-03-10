@@ -3,7 +3,7 @@ title: "How to Use Smallpond: A Comprehensive Guide"
 tags:
   - AI
   - LLM
-  - PLatform
+  - Platform
   - FeatureEngineering
 toc: true
 ---

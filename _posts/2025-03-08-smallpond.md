@@ -3,7 +3,7 @@ title: "Smallpond: Is This the End of Spark? (Probably Not)"
 tags:
   - AI
   - LLM
-  - PLatform
+  - Platform
   - FeatureEngineering
 toc: true
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Harnessing AI Agents with Browser Use: A Comprehensive Guide"
 tags:
-  - ChatGPT
   - AI
   - LLM
   - AI-Agents

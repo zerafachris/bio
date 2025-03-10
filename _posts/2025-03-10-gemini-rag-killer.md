@@ -1,7 +1,6 @@
 ---
 title: "Gemini 2.0 Flash: A Paradigm Shift in RAG Models"
 tags:
-  - ChatGPT
   - AI
   - LLM
   - RAG

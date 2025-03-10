@@ -3,7 +3,7 @@ title: "Generative AI for Automated Documentation Generation in Organisations"
 tags:
   - DL
   - Productionisation
-  - ChatGPT
+  - RAG
   - AI
   - LLM
 toc: true

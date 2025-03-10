@@ -1,7 +1,6 @@
 ---
 title: "How AI is 10x'ing my Team Performance"
 tags:
-  - ChatGPT
   - AI
   - LLM
   - Team

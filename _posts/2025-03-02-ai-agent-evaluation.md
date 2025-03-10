@@ -3,7 +3,6 @@ title: "Evaluating AI Agents: A Comprehensive Guide"
 tags:
   - DL
   - Productionisation
-  - ChatGPT
   - AI
   - LLM
   - AI-Agents

@@ -1,7 +1,6 @@
 ---
 title: "A Comprehensive Guide to AI Models: Capabilities, Performance, and Recommendations"
 tags:
-  - ChatGPT
   - AI
   - LLM
   - AI-Agents

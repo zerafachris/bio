@@ -1,10 +1,9 @@
 ---
 title: "How to build an AI Assistant for you Product"
 tags:
-  - ChatGPT
   - AI
   - LLM
-  - AI-Agents
+  - RAG
 toc: true
 ---
 

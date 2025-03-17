@@ -4,7 +4,7 @@ tags:
   - Productionisation
   - VectorStore
   - MLOps
-  - FeatureEngineering
+  - Feature Engineering
   - Platform
 toc: true
 ---

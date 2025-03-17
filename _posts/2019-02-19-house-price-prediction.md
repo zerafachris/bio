@@ -3,7 +3,7 @@ title: "House price prediction for the Maltese Market"
 tags:
   - ML
   - Property
-  - FeatureEngineering
+  - Feature Engineering
 link: https://github.com/zerafachris/playGround/blob/master/published/maltaHousePricing/readme.md
 ---
 

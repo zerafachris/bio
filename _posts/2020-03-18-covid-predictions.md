@@ -2,7 +2,7 @@
 title: "COVID-19 Predictions for Malta"
 tags:
   - ML
-  - FeatureEngineering
+  - Feature Engineering
 link: https://github.com/zerafachris/playGround/blob/master/published/covid19_malta_prediction/readme.md
 ---
 

@@ -4,7 +4,7 @@ tags:
   - AI
   - LLM
   - Platform
-  - FeatureEngineering
+  - Feature Engineering
 toc: true
 ---
 

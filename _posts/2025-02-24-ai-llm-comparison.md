@@ -3,7 +3,7 @@ title: "A Comprehensive Guide to AI Models: Capabilities, Performance, and Recom
 tags:
   - AI
   - LLM
-  - AI-Agents
+  - AI Agents
 toc: true
 ---
 

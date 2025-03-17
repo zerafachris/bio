@@ -3,7 +3,7 @@ title: "Harnessing AI Agents with Browser Use: A Comprehensive Guide"
 tags:
   - AI
   - LLM
-  - AI-Agents
+  - AI Agents
 toc: true
 ---
 

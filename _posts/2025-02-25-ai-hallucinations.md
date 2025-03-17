@@ -3,7 +3,7 @@ title: "Understanding LLM Hallucinations: Identification and Mitigation Strategi
 tags:
   - AI
   - LLM
-  - AI-Agents
+  - AI Agents
 toc: true
 ---
 

@@ -2,7 +2,7 @@
 title: "Simple Sentiment Analysis"
 tags:
   - NLP
-  - Sentiment-Analysis
+  - Sentiment Analysis
   - MLOps
   - Productionisation
 link: https://github.com/zerafachris/playGround/blob/master/published/sentimentAnalysisApp/readme.md

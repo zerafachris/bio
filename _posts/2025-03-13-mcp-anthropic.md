@@ -3,7 +3,7 @@ title: "Model Context Protocol (MCP): A Universal Standard for AI Context Manage
 tags:
   - MCP
   - AI
-  - AIBenchmarking
+  - AI Benchmarking
   - LLM
 toc: true
 ---

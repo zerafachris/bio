@@ -17,7 +17,7 @@ Anthropic's AI assistant, Claude, has embarked on a noteworthy endeavour: playin
 
 ## The Experiment: Claude Plays Pokémon Red
 
-In February 2025, Anthropic introduced "Claude Plays Pokémon," a Twitch livestream showcasing Claude 3.7 Sonnet, the latest iteration of their AI model, navigating the world of *Pokémon Red*. This initiative aims to evaluate Claude's reasoning, planning, and adaptability in a game that requires strategic decision-making and real-time responses. ([arstechnica.com](https://arstechnica.com/ai/2025/03/why-anthropics-claude-still-hasnt-beaten-pokemon/?utm_source=chatgpt.com))
+In February 2025, Anthropic introduced "Claude Plays Pokémon," a Twitch livestream showcasing Claude 3.7 Sonnet, the latest iteration of their AI model, navigating the world of *Pokémon Red*. This initiative aims to evaluate Claude's reasoning, planning, and adaptability in a game that requires strategic decision-making and real-time responses.
 
 ## Challenges Encountered by Claude
 

@@ -51,9 +51,7 @@ Claude's engagement with *Pokémon Red* offers valuable insights into the curren
 
 ## Visual Insights
 
-For a visual perspective on Claude's gameplay, you can watch the following video:
-
-<iframe width="640" height="460" src="https://www.youtube.com/watch?v=b16Pdc77H6E&utm_source=chatgpt.com" frameborder="0" allowfullscreen></iframe>
+For a visual perspective on Claude's gameplay, you can watch the following video: [Anthropic's Claude Plays Pokémon](https://www.youtube.com/watch?v=b16Pdc77H6E&utm_source=chatgpt.com)
 
 
 ## Conclusion
@@ -61,4 +59,5 @@ For a visual perspective on Claude's gameplay, you can watch the following video
 Claude's ongoing attempt to master *Pokémon Red* encapsulates the current achievements and challenges within the field of artificial intelligence. While significant progress has been made, the endeavour highlights the complexities involved in developing AI systems capable of nuanced understanding and strategic planning. Continued research and development are essential to overcome these hurdles, paving the way for more sophisticated and capable AI applications in the future.
 
 *This article references information from the original source: [Why Anthropic's Claude still hasn't beaten Pokémon](https://arstechnica.com/ai/2025/03/why-anthropics-claude-still-hasnt-beaten-pokemon/).*
+
 

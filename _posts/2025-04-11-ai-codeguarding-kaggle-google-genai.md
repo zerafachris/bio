@@ -147,3 +147,4 @@ CodeGuardian demonstrates the transformative potential of agentic AI in software
 As software systems grow increasingly complex, tools like CodeGuardian will become essential for maintaining high quality standards while meeting the demands of rapid development cycles. The combination of retrieval-augmented generation, vector search, and agentic orchestration creates a powerful new paradigm for code quality assurance that can adapt to the evolving challenges of modern software development.
 
 ## [Kaggle Competition](https://www.kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1)
+## [Youtube Video](https://youtu.be/S5f2G7A1Dlw)

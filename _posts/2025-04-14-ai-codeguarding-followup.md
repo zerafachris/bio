@@ -18,7 +18,7 @@ toc: true
 ---
 
 <figure>
-	<a href=""><img src="https://i.imgur.com/lgMBvG3.png.png"></a>
+	<a href=""><img src="https://i.imgur.com/lgMBvG3.png"></a>
 </figure>
 
 When I embarked on creating CodeGuardian for the [Kaggle Gen AI Intensive Course Capstone 2025Q1](https://www.kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1/overview), I knew that leveraging the power of Large Language Models (LLMs) would be essential. The competition challenged participants to develop innovative AI solutions, and I chose to focus on solving quality assurance challenges in code deployments through agentic AI. What made this project particularly interesting was my approach to development—I used prompt engineering techniques to guide LLMs in generating the foundation of my submission.

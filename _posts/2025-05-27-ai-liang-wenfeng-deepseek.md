@@ -1,11 +1,9 @@
 ---
 title: "Liang Wenfeng: The Visionary CEO Steering DeepSeek AI’s Global Rise"
 tags:
-   - Liang Wenfeng
    - DeepSeek AI
-   - Artificial Intelligence
-   - Chinese Tech Leaders
-   - AI Innovation
+   - AI
+   - Tech Leaders
 toc: true
 ---
 

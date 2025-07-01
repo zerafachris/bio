@@ -1,5 +1,5 @@
 ---
-title: "The Last IDE: Why Agentic Coding is a Beautiful Dead End"
+title: "Agentic Coding is a Dead End"
 tags:
    - AI
    - AI-Assisted Coding
@@ -19,7 +19,7 @@ toc: true
 
 The Integrated Development Environment (IDE) has been the developer's essential workshop for decades, evolving from a clumsy juggling of separate command-line tools to unified graphical powerhouses like Visual Studio and Eclipse. Each step in its evolution has been about abstracting away friction. The latest and most powerful iteration is the "agentic IDE," a tool that doesn't just assist with code but actively collaborates in its creation.
 
-Tools like Cursor, an AI-first editor, represent the zenith of this paradigm. Yet, this peak is also a precipice. The very trend of abstraction that created the IDE is now poised to abstract away the IDE itself. As provocatively suggested by articles like "Cursor is Doomed"^[1], the agentic IDE, in perfecting the human-AI coding partnership, is making itself obsolete. What happens when the AI partner becomes so capable that it no longer needs the human coder—or their workshop?
+Tools like Cursor, an AI-first editor, represent the zenith of this paradigm. Yet, this peak is also a precipice. The very trend of abstraction that created the IDE is now poised to abstract away the IDE itself. As provocatively suggested by articles like "Cursor is Doomed"[^1], the agentic IDE, in perfecting the human-AI coding partnership, is making itself obsolete. What happens when the AI partner becomes so capable that it no longer needs the human coder—or their workshop?
 
 ## The Agentic Apex: When Your Editor Becomes a Colleague
 
@@ -31,10 +31,10 @@ Cursor is the archetype, a standalone editor built for a fluid, conversational w
 
 Herein lies the paradox. The agentic IDE is still designed to *assist* a human writing code. The next generation of AI tools aims to *be* the coder. These "AI software engineers" render the IDE a redundant intermediary.
 
-*   **Devin AI** was marketed as the "world's first AI software engineer," designed to autonomously handle entire projects.^[2]
-*   **Claude Code** operates from the terminal, capable of reading a GitHub issue and submitting a finished pull request on its own.^[3]
-*   **Zencoder** deploys "Autonomous Agents" to fix bugs and clear technical debt while the human team sleeps.^[5]
-*   **Windsurf's Cascade** agent can take a single prompt and generate a running web preview without a developer writing any code.^[4]
+*   **Devin AI** was marketed as the "world's first AI software engineer," designed to autonomously handle entire projects.[^2]
+*   **Claude Code** operates from the terminal, capable of reading a GitHub issue and submitting a finished pull request on its own.[^3]
+*   **Zencoder** deploys "Autonomous Agents" to fix bugs and clear technical debt while the human team sleeps.[^5]
+*   **Windsurf's Cascade** agent can take a single prompt and generate a running web preview without a developer writing any code.[^4]
 
 These are not IDE plugins; they are end-to-end systems that take a high-level goal and execute it. This creates a fatal conflict in product strategy. An agentic IDE like Cursor sells a superior coding *experience*. An autonomous agent like Zencoder sells an *outcome*—a finished feature. A company cannot simultaneously perfect the hammer while selling a robotic carpenter that makes hammers obsolete.
 
@@ -51,7 +51,7 @@ In this paradigm, the developer's primary interface is the PR review screen, a t
 
 ## A Dose of Reality: The Awkward Adolescence of Autonomous Agents
 
-This future is not yet the present. Today's autonomous agents are in an awkward adolescence. Devin AI's impressive 13.86% resolution rate on the SWE-bench benchmark ignited the industry's imagination, far surpassing previous models. However, real-world testing revealed significant flaws. An investigation by Answer.AI found Devin often generated convoluted "code soup," failed to grasp project context, and got stuck in endless loops. It could take longer to fail at a task than a human would have taken to succeed.^[7]
+This future is not yet the present. Today's autonomous agents are in an awkward adolescence. Devin AI's impressive 13.86% resolution rate on the SWE-bench benchmark ignited the industry's imagination, far surpassing previous models. However, real-world testing revealed significant flaws. An investigation by Answer.AI found Devin often generated convoluted "code soup," failed to grasp project context, and got stuck in endless loops. It could take longer to fail at a task than a human would have taken to succeed.[^7]
 
 These are not problems unique to Devin; all generative AI models struggle with context and hallucination. But to dismiss the paradigm for these early failures is a mistake. These are the growing pains of a nascent technology, not a fundamental invalidation of its trajectory. The critical takeaway is not the imperfection of the current tools, but the audacity of their ambition. They are not aiming to be better IDE plugins; they are aiming to make the IDE a historical artefact.
 

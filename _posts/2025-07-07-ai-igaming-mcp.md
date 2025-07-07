@@ -27,7 +27,9 @@ Think of it as a "universal translator" or a "USB-C port for AI". While a tradit
 
 The **iGaming MCP** server is an intelligent middleware layer designed specifically for the iGaming industry. It acts as the central nervous system for player engagement, connecting an operator's gaming platform, CRM, and any MCP-compatible AI agent into a single, coherent ecosystem.
 
-By creating a unified context, it solves the data fragmentation problem, empowering AI to deliver truly one-to-one player journeys.
+By creating a unified context, it solves the data fragmentation problem, empowering AI to deliver truly one-to-one player journeys. 
+
+Checkout the GitHub repository for the iGaming MCP server [here](https://github.com/zerafachris/igaming_mcp_server).
 
 ### The Core Toolset: An AI's Eyes, Ears, and Hands
 

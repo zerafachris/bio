@@ -14,8 +14,8 @@ header:
 ---
 
 <figure>
-	<a href=""><img src="https://images.pexels.com/photos/4508751/pexels-photo-4508751.jpeg?auto=compress"></a>
-	<figcaption>The maintenance cart parked at the end of the aisle — the cost nobody budgets for, and the one SaaS was really selling you.</figcaption>
+	<a href="https://i.ibb.co/hFBvXFm0/saas-moat-hero.png"><img src="https://i.ibb.co/hFBvXFm0/saas-moat-hero.png"></a>
+	<figcaption>The castle is still standing. The water that kept everyone out is draining.</figcaption>
 </figure>
 
 ## Seven Apps, No Subscription

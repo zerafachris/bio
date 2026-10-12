@@ -9,6 +9,8 @@ tags:
    - Technology Strategy
    - Future of Work
 toc: true
+header:
+   og_image: https://i.ibb.co/hFBvXFm0/saas-moat-hero.png
 ---
 
 <figure>
@@ -49,9 +51,19 @@ Each was a recurring, uncapped, unbudgeted tax, and none of it had a line in any
 
 So the question was never whether you could build it. It is whether you can still afford to own it in year three, and that answer has changed.
 
+<figure>
+	<a href="https://i.ibb.co/rf2x6gRR/saas-moat-cost.png"><img src="https://i.ibb.co/rf2x6gRR/saas-moat-cost.png"></a>
+	<figcaption>Illustrative, not measured. Version one was always cheap; the slope after it was what you paid SaaS to avoid.</figcaption>
+</figure>
+
 ## What Dies, What Survives
 
 Your portfolio splits into three tiers.
+
+<figure>
+	<a href="https://i.ibb.co/0VsbXcnD/saas-moat-tiers.png"><img src="https://i.ibb.co/0VsbXcnD/saas-moat-tiers.png"></a>
+	<figcaption>Replaced, repriced, or strengthened. The tier decides it, not the invoice.</figcaption>
+</figure>
 
 **The thin wrapper.** Form builders, dashboard layers, status pages, scheduling, light CRM, internal admin panels. No proprietary data, no network effect, no regulatory burden. Paying €15 per user per month for something an engineer now assembles in an afternoon does not survive two renewal cycles.
 

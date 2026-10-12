@@ -18,13 +18,13 @@ toc: true
 
 ## Seven Apps, No Subscription
 
-This week a team called ArtCraft released seven open-source creative applications written in Rust: an image editor, a vector tool, a video editor, a RAW developer, a PDF workbench, motion graphics, and page layout.[^1] MIT and Apache licensed, no telemetry, six of them runnable in a browser.
+This week ArtCraft released seven open-source creative applications written in Rust: clean-room answers to Photoshop, Illustrator, Premiere, Lightroom, Acrobat, After Effects and InDesign.[^1] MIT and Apache licensed, no telemetry, six of them runnable in a browser.
 
-The image editor round-tripped 134 of 135 real-world PSD files byte for byte. Most of it is alpha.
+One developer, Brandon Thomas, with Claude Opus 5.5 as his coding assistant.[^2] The image editor round-tripped 134 of 135 real-world PSD files byte for byte. Most of it is alpha, and it was on Linus Tech Tips within days.[^3]
 
-The hot-take version of this story is "AI is killing SaaS." Adobe's revenue says otherwise, and the coverage never claims AI wrote any of it.
+So take the hot take seriously for a moment, because this is its strongest available case: one person and a model produced credible alternatives to seven Adobe applications.
 
-My narrower claim: AI is not killing SaaS. It is killing what made SaaS defensible. If you sign software contracts, only the second is your problem.
+It still will not kill Adobe. My narrower claim: AI is not killing SaaS. It is killing what made SaaS defensible. If you sign software contracts, only the second is your problem.
 
 ## SaaS Was Never Selling You Features
 
@@ -71,7 +71,7 @@ So the question I ask before owning anything is no longer whether we can build i
 
 ## If You Are the One Signing the Contracts
 
-Retool's 2026 build-vs-buy report found 35% of teams had already replaced a SaaS tool with a custom build.[^2] Hold it loosely: 817 of Retool's own customers, surveyed by a company that sells build tooling. But the categories they named are the thin wrapper tier, item for item: internal admin tools, BI, CRM and form builders, project management.
+Retool's 2026 build-vs-buy report found 35% of teams had already replaced a SaaS tool with a custom build.[^4] Hold it loosely: 817 of Retool's own customers, surveyed by a company that sells build tooling. But the categories they named are the thin wrapper tier, item for item: internal admin tools, BI, CRM and form builders, project management.
 
 Three things for your agenda rather than your feed:
 
@@ -100,4 +100,6 @@ So, for every line on your software bill: what are you paying to avoid, and is i
 I'd rather hear the disagreements.
 
 [^1]: ArtCraft's seven open-source creative apps, [covered by Techaeris](https://techaeris.com/2026/10/07/artcraft-launches-7-open-source-creative/), 7 October 2026.
-[^2]: [Retool 2026 Build vs. Buy Report](https://retool.com/blog/ai-build-vs-buy-report-2026) — 817 respondents, surveyed late 2025, published 17 February 2026.
+[^2]: Brandon Thomas built the suite with Claude Opus 5.5 as his coding assistant, as a clean-room reimplementation: [Notebookcheck](https://www.notebookcheck.net/Photoshop-Premiere-more-Experienced-Rust-developer-recreates-Adobe-suite-with-AI-assistance-as-open-source.1419230.0.html), 8 October 2026.
+[^3]: [Linus Tech Tips coverage](https://youtu.be/fr0WIIZxvx0).
+[^4]: [Retool 2026 Build vs. Buy Report](https://retool.com/blog/ai-build-vs-buy-report-2026) — 817 respondents, surveyed late 2025, published 17 February 2026.

@@ -9,6 +9,7 @@ tags:
    - Technology Strategy
    - Future of Work
 toc: true
+excerpt: "The moat was never the software. It was the cost of owning it, and AI has compressed exactly that. What it means for every line on your software bill."
 header:
    og_image: https://i.ibb.co/hFBvXFm0/saas-moat-hero.png
 ---

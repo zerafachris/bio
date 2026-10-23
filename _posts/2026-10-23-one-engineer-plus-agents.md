@@ -1,5 +1,5 @@
 ---
-title: "One Senior Engineer Plus Agents Beats a Team of Four. AI Is a Rounding Error Against One Salary."
+title: "AI Didn't Make Engineers Cheaper. It Changed What You Hire Them For."
 tags:
    - AI
    - Data Engineering
@@ -11,7 +11,7 @@ tags:
 toc: true
 header:
    og_image: https://zerafachris.github.io/bio/assets/images/zero-cost-code-2-infographic.png
-excerpt: "One senior engineer and a set of agents built what the industry staffs with a team of four to six. The AI bill was $200 a month per seat. The thing that made it work was the gate."
+excerpt: "Agents now write most of the code on a live data platform. The AI bill is the cheapest line in the system. The person who decides what's true is the most expensive, and the one that matters."
 ---
 
 <figure>
@@ -21,7 +21,7 @@ excerpt: "One senior engineer and a set of agents built what the industry staffs
 
 *Zero-Cost Code, part 2 of 8. The cost of writing software has gone to near zero. Everything around it just got more expensive. [Part 1](https://zerafachris.github.io/bio/ai-saas-moat-open-source/) covered ownership. This part covers judgment.*
 
-One senior data engineer plus AI agents can build what used to take a platform team.
+AI agents can now write most of the code for a platform that used to need a whole team.
 
 Six months ago I would have filed that sentence under vendor marketing. Then I spent 90 days testing it on a live build: the data platform for a multi-brand, crypto-first iGaming group. Real-money transactions across more than 15 chains. Regulated reporting on the roadmap. A treasury the platform is being built to watch in near real time.
 
@@ -89,7 +89,7 @@ Four objections I take seriously.
 
 ## The Question
 
-Agents handle volume. The senior engineer decides what's true. Put that person at the gate and one plus agents beats a team of four.
+Agents handle volume. The senior engineer decides what's true. Put that person at the gate and a small team carries what a large one used to.
 
 So for your own platform: who is your gate, what does it cost you to lose them, and how much of their judgement lives anywhere other than their head?
 

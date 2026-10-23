@@ -1,5 +1,7 @@
 ---
-title: "Agentic Coding is a Dead End"
+title: "The Agentic IDE Is a Dead End"
+redirect_from:
+   - /ai-sdlc-obsolete/
 tags:
    - AI
    - AI-Assisted Coding

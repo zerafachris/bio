@@ -5,7 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 email: zerafachris@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Tech blog by Christopher Zerafa, PhD, on AI, data engineering and data platforms.
+  Christopher Zerafa, PhD, on data and AI leadership in real-money businesses: platforms, governance, and what gets more expensive when writing software gets cheap.
 # twitter_username: username
 github_username: zerafachris
 minimal_mistakes_skin: air # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -75,25 +75,17 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # Site Author
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-author
 author:
   name   : "Christopher Zerafa, PhD"
   # avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data Leader, Driving Data-Driven Transformation & Revenue Growth, AI/ML Innovator in iGaming, Strategic Leader in Change Management & Operational Optimisation"
-  # location: "Malta"
+  bio    : "Head of Data at Block Labs. Data and AI leadership for regulated, real-money businesses. Previously Head of Data Science & Analytics at GiG."
+  location: "Malta"
   email: "zerafachris@gmail.com"
   links:
-    - label: "CV"
-      icon: "fas fa-fw fa-university"
-      url: "https://www.linkedin.com/in/christopherzerafa/"
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "mailto:zerafachris@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://zerafachris.github.io/bio/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zerafachris"
@@ -104,15 +96,9 @@ author:
 
 footer:
   links:
-    - label: "CV"
-      icon: "fas fa-fw fa-university"
-      url: "https://www.linkedin.com/in/christopherzerafa/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zerafachris@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://zerafachris.github.io/bio/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zerafachris"

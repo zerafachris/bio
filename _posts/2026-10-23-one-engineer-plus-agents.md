@@ -21,7 +21,7 @@ excerpt: "Agents now write most of the code on a live data platform. The AI bill
 
 *Zero-Cost Code, part 2 of 8. The cost of writing software has gone to near zero. Everything around it just got more expensive. [Part 1](https://zerafachris.github.io/bio/ai-saas-moat-open-source/) covered ownership. This part covers judgment.*
 
-One senior data engineer plus AI agents can build what used to take a platform team.
+AI agents can now write most of the code for a platform that used to need a whole team.
 
 Six months ago I would have filed that sentence under vendor marketing. Then I spent 90 days testing it on a live build: the data platform for a multi-brand, crypto-first iGaming group. Real-money transactions across more than 15 chains. Regulated reporting on the roadmap. A treasury the platform is being built to watch in near real time.
 

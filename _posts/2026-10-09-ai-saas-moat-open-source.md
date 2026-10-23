@@ -114,7 +114,7 @@ I'd rather hear the disagreements.
 
 ---
 
-*Part 1 of **Zero-Cost Code**, a series on what gets more expensive when writing software gets cheap. Next: [One Senior Engineer Plus Agents Beats a Team of Four](/bio/one-engineer-plus-agents/).*
+*Part 1 of **Zero-Cost Code**, a series on what gets more expensive when writing software gets cheap. Next: [AI Didn't Make Engineers Cheaper. It Changed What You Hire Them For.](/bio/one-engineer-plus-agents/)*
 
 [^1]: ArtCraft's seven open-source creative apps, [covered by Techaeris](https://techaeris.com/2026/10/07/artcraft-launches-7-open-source-creative/), 7 October 2026.
 [^2]: Brandon Thomas built the suite with Claude Opus 5.5 as his coding assistant, as a clean-room reimplementation: [Notebookcheck](https://www.notebookcheck.net/Photoshop-Premiere-more-Experienced-Rust-developer-recreates-Adobe-suite-with-AI-assistance-as-open-source.1419230.0.html), 8 October 2026.

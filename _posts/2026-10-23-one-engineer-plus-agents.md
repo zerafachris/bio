@@ -1,5 +1,5 @@
 ---
-title: "One Senior Engineer Plus Agents Beats a Team of Four. AI Is a Rounding Error Against One Salary."
+title: "AI Didn't Make Engineers Cheaper. It Changed What You Hire Them For."
 tags:
    - AI
    - Data Engineering
@@ -11,7 +11,7 @@ tags:
 toc: true
 header:
    og_image: https://zerafachris.github.io/bio/assets/images/zero-cost-code-2-infographic.png
-excerpt: "One senior engineer and a set of agents built what the industry staffs with a team of four to six. The AI bill was $200 a month per seat. The thing that made it work was the gate."
+excerpt: "Agents now write most of the code on a live data platform. The AI bill is the cheapest line in the system. The person who decides what's true is the most expensive, and the one that matters."
 ---
 
 <figure>
@@ -89,7 +89,7 @@ Four objections I take seriously.
 
 ## The Question
 
-Agents handle volume. The senior engineer decides what's true. Put that person at the gate and one plus agents beats a team of four.
+Agents handle volume. The senior engineer decides what's true. Put that person at the gate and a small team carries what a large one used to.
 
 So for your own platform: who is your gate, what does it cost you to lose them, and how much of their judgement lives anywhere other than their head?
 

@@ -93,7 +93,7 @@ Agents handle volume. The senior engineer decides what's true. Put that person a
 
 So for your own platform: who is your gate, what does it cost you to lose them, and how much of their judgement lives anywhere other than their head?
 
-*Next in Zero-Cost Code, part 3: what happens when you turn this gate into a pipeline, and the one file in a software factory the board should own.*
+*Next in Zero-Cost Code, part 3: [Every Company Will Run a Software Factory. The Board Should Own One File in It.](/bio/software-factory/)*
 
 [^1]: [Dataforest, Data Platform Development Cost 2026](https://dataforest.ai/blog/data-platform-development-cost).
 [^2]: [Streamkap, DIY CDC infrastructure costs](https://streamkap.com/resources-and-guides/diy-cdc-infrastructure-costs) (vendor content).

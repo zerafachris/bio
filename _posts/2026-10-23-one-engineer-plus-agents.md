@@ -19,7 +19,7 @@ excerpt: "Agents now write most of the code on a live data platform. The AI bill
 	<figcaption>Bad code fails loudly. Bad data completes on schedule.</figcaption>
 </figure>
 
-*Zero-Cost Code, part 2 of 8. The cost of writing software has gone to near zero. Everything around it just got more expensive. [Part 1](https://zerafachris.github.io/bio/ai-saas-moat-open-source/) covered ownership. This part covers judgment.*
+*Zero-Cost Code, part 2 of 7. The cost of writing software has gone to near zero. Everything around it just got more expensive. [Part 1](https://zerafachris.github.io/bio/ai-saas-moat-open-source/) covered ownership. This part covers judgment.*
 
 AI agents can now write most of the code for a platform that used to need a whole team.
 
@@ -69,7 +69,7 @@ If I can't do all three, the change doesn't ship. That gate is the entire system
 
 A CFO reads this differently from an engineer, and the CFO's reading matters more.
 
-In the old model, a platform function's cost grows with scope. Each new source, product or tenant pulls in headcount, and headcount brings management layers, hiring cycles and attrition risk. In this model, cost grows with the number of verification surfaces: the places where someone has to decide that a number is true. Infrastructure scales with usage. The AI bill doesn't, yet: it's a flat $200-a-month subscription per engineer, a rounding error against one loaded salary and the cheapest line in the system. At list token prices the same work would cost many times that, which is a pricing risk to forecast, not a reason to doubt the economics (part 5 covers it).
+In the old model, a platform function's cost grows with scope. Each new source, product or tenant pulls in headcount, and headcount brings management layers, hiring cycles and attrition risk. In this model, cost grows with the number of verification surfaces: the places where someone has to decide that a number is true. Infrastructure scales with usage. The AI bill doesn't, yet: it's a flat $200-a-month subscription per engineer, a rounding error against one loaded salary and the cheapest line in the system. At list token prices the same work would cost many times that, which is a pricing risk to forecast, not a reason to doubt the economics (part 4 covers it).
 
 The expensive line is the person at the gate. Senior data engineers now take 8 to 16 weeks to hire; streaming specialists, up to 20.[^8] AI didn't lower the demand for that person. One of them now carries what a team used to, and nothing in the market data says they got cheaper. Headcount still grows, but with the number of gates rather than the number of pipelines: the second engineer joined for the second gate, not for throughput.
 

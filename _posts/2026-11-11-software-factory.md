@@ -27,7 +27,7 @@ Here is a list of changes an AI agent may never merge on its own. The approver m
 - migrates a schema, sends email, writes production data, or adds a dependency;
 - rests on an assumption that is really a product or business decision, such as pricing or public copy.
 
-It comes from a software factory that ZazenCodes published in October as a 28-minute tutorial, with the source on GitHub.[^1] The video has passed 170,000 views. Most viewers will take it as a productivity trick. I think the list is a preview of how engineering organisations will be governed, and of where their speed will come from.
+It comes from a software factory that ZazenCodes published in October as a 28-minute tutorial, with the source on GitHub.[^1] The video, which Anthropic sponsored, has passed 340,000 views. Most viewers will take it as a productivity trick. I think the list is a preview of how engineering organisations will be governed, and of where their speed will come from.
 
 ## What a factory is
 

@@ -27,7 +27,7 @@ Here is a list of changes an AI agent may never merge on its own. The approver m
 - migrates a schema, sends email, writes production data, or adds a dependency;
 - rests on an assumption that is really a product or business decision, such as pricing or public copy.
 
-It comes from a software factory that ZazenCodes published in October as a 28-minute tutorial, with the source on GitHub.[^1] The video, which Anthropic sponsored, has passed 340,000 views. Most viewers will take it as a productivity trick. I think the list is a preview of how engineering organisations will be governed, and of where their speed will come from.
+It comes from an open-source software factory built on Anthropic's Claude Code and published on GitHub in October.[^1] Most people who find it will take it as a productivity trick. I think the list is a preview of how engineering organisations will be governed, and of where their speed will come from.
 
 ## What a factory is
 
@@ -100,7 +100,7 @@ If you ran a software factory tomorrow, who in your company would sign the list 
 
 *Next in Zero-Cost Code, part 4: what a feature costs when a machine writes it, and the ledger I keep to answer that for a CFO.*
 
-[^1]: [ZazenCodes, *Build Your Own AI Software Factory with Claude Code*, YouTube, 7 October 2026](https://www.youtube.com/watch?v=ctoaIC4LHmI) · [source](https://github.com/zazencodes/zazencodes-season-3/tree/main/src/software-factory-claude-code).
+[^1]: [ZazenCodes, *Software Factory for Claude Code*, GitHub, October 2026](https://github.com/zazencodes/zazencodes-season-3/tree/main/src/software-factory-claude-code).
 [^2]: [Simon Willison on Dan Shapiro, *The five levels: from spicy autocomplete to the dark factory*, January 2026](https://simonwillison.net/2026/Jan/28/the-five-levels/).
 [^3]: [InfoQ, *AI and the Agile Manifesto debate*, February 2026 (Jones, Siderova, Forrester 2025)](https://www.infoq.com/news/2026/02/ai-agile-manifesto-debate).
 [^4]: [REA (Reverse Engineer Anything)](https://github.com/morluto/rea).

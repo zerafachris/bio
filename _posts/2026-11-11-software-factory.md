@@ -59,7 +59,7 @@ The fastest organisations will decide in advance. Compliance blesses an envelope
 
 So engineering can propose the list but shouldn't own it alone. Payments and wallets belong to finance. Access and identity belong to security. Player data and regulator reporting belong to compliance. Pricing and public copy belong to the commercial team. Each owner agrees which changes in their area a machine may merge, and the CTO keeps the list current and reports against it.
 
-That turns a developer tool into a governance instrument. It gives the board something it has rarely had for software: a written, versioned answer to what the company lets machines do, and a lever on how fast it moves.
+That turns a developer tool into a governance instrument. It gives the board something it has rarely had for software: a written, versioned answer to what the company lets machines do, and a lever on how fast it moves. The board, or its risk committee, should approve that file the way it approves any other statement of risk appetite.
 
 ## What the list looks like in a regulated business
 

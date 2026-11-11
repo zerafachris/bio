@@ -9,13 +9,13 @@ tags:
    - Future of Work
 toc: true
 header:
-   og_image: https://zerafachris.github.io/bio/assets/images/zero-cost-code-3-infographic.png
+   og_image: https://zerafachris.github.io/bio/assets/images/zero-cost-code-3-infographic-1of2.png
 excerpt: "An open-source software factory builds a feature in an afternoon. The file that matters is the list of changes it may never merge alone: the company's risk appetite, written down, and the reason the build is no longer the slow part."
 ---
 
 <figure>
-	<a href="/bio/assets/images/zero-cost-code-3-infographic.png"><img src="/bio/assets/images/zero-cost-code-3-infographic.png"></a>
-	<figcaption>The build used to hide the queue. Now the queue is all that's left.</figcaption>
+	<a href="/bio/assets/images/zero-cost-code-3-infographic-1of2.png"><img src="/bio/assets/images/zero-cost-code-3-infographic-1of2.png"></a>
+	<figcaption>Seven agents, one loop, and the one file that decides what it may ship.</figcaption>
 </figure>
 
 *Zero-Cost Code, part 3 of 7. The cost of writing software has gone to near zero. Everything around it just got more expensive. [Part 2](https://zerafachris.github.io/bio/one-engineer-plus-agents/) described the gate: one senior engineer deciding what's true. This part is what happens when you industrialise the gate, and why that turns speed into an executive problem.*
@@ -48,6 +48,11 @@ In February, Capgemini's Steve Jones argued that agentic delivery has "killed" t
 Run the audit on your own last feature. Draw one bar per stage, from first signal to production: the signal (a competitor ships, a player complains, a metric drops); the decision to respond, with a named owner; the specification; the build; review and verification; legal, compliance and, in gaming, certification of anything that touches game outcomes; release sign-off.
 
 In a regulated business today, the build is often the shortest bar. A typical shape I've seen across companies: a few days of build, weeks waiting for a decision and a spec, more weeks in approvals. The build used to hide the queue. A factory removes the build, and the queue is all that's left.
+
+<figure>
+	<a href="/bio/assets/images/zero-cost-code-3-infographic-2of2.png"><img src="/bio/assets/images/zero-cost-code-3-infographic-2of2.png"></a>
+	<figcaption>Illustrative, not measured. One short bar; everything else is a decision waiting for an owner.</figcaption>
+</figure>
 
 The pressure is coming from outside too. Open-source tools such as REA now let an agent reverse-engineer a feature from someone else's app, without its source, and build a version for yours.[^4] A competitor's new bonus mechanic can be a prototype by Monday. Most organisations still couldn't ship it by Christmas, and engineering won't be the reason.
 
